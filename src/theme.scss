@@ -1,0 +1,28 @@
+* {
+    // font-family: Georgia, 'Times New Roman', Times, serif;
+    // font-family: 'Lato', sans-serif;
+    *{
+      font-family: 'Lato', sans-serif !important;
+      font-size: '12px' !important;
+    }
+}
+
+.scrolling-wrapper {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    // -webkit-overflow-scrolling: touch;
+    .card {
+      display: inline-block;
+      margin: 5px;
+    }
+  }
+@mixin flx-row{
+    display: flex;
+    flex-direction: row;
+}
+
+@mixin flx-column{
+    display: flex;
+    flex-direction: column;
+}

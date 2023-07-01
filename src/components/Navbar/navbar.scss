@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    // color: black; /* blue colors for links too */
+    text-decoration: none; /* no underline */
+    color: white;
+    letter-spacing: 0.02857em;
+    opacity: 1 !important;
+    background-color: transparent;
+    border-radius: 4px;
+    padding: 9px 8px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border: 1px solid transparent;
+}
+a:hover{
+    background-color: #ED8B00; 
+
+    // color: #ED8B00;
+}
+a:active{
+    background-color: #ED8B00 !important; 
+}
+.nav-logout:hover{
+    background-color: rgba(25, 118, 210, 0.04) !important; 
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    height: 7rem;
+    opacity: 1 !important;
+    background-color: #4F758B;
+}
+
+.logo-container,
+.user-links,
+.page-links{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 15px 0.5rem 0.5rem 0;
+    opacity: 1 !important;
+    padding-left: 2px !important;
+    padding-right: 2px !important;
+    border-radius: 4px;
+}
+.page-links{
+    margin: 0 0 0 0.5rem;
+    opacity: 1 !important;
+}
+
+.logo-container{
+    margin: 0 0 0 0.5rem;
+    flex-direction: row;
+
+}
+
+.logo-text{
+    font-size: 1.5rem;
+    
+}
+
+
+
+.page-links{
+    flex-grow: 1;
+    color: white;
+    // margin: 48px 0.5rem 0.5rem 0;
+}
+
+.user-link{
+    margin: 0 1rem;
+    font-size: 1rem;
+    
+}
+
+.logo{
+    height:auto;
+    width: auto;
+    margin: 0px 0.5rem 0.5rem 0;
+}
+section .page-link{
+    background-color: #ED8B00; 
+    color: black;
+    border: 1px solid black;
+}
+section .page-link:hover{
+    transform: scale(1.1); 
+}
+
+div li{
+    color: #4F758B !important;
+}
+div li a.page-link{
+    color: #4F758B !important;
+}
+div span a{
+    color: #4F758B !important;
+}
+div li:hover{
+    color: white !important;
+    background-color: #ED8B00 !important; 
+}
+@media screen and (max-width: 1506px) {
+
+    #Utah-Mortgage-PRMI-LOGO{
+        display: none;
+    }
+
+}
+@media screen and (max-width: 1123px) {
+    // .logo-container,
+    .user-links,
+    .page-links{
+        display: none;
+    }
+    .logo-container{
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        margin: 0 0 0 0rem;
+    }
+    .navbar{
+        display: grid;
+        grid-template-columns: 50px auto 50px;
+    }
+    #Utah-Mortgage-PRMI-LOGO{
+        display: none;
+    }
+    #Utah-Mortgage-KENNY-LOGO{
+        height: 5rem !important;
+    }
+}
