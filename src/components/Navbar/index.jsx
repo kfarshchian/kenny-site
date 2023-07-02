@@ -91,7 +91,12 @@ const Header = () => {
               </MenuItem>
               <MenuItem onClick={aboutushandleClose}>
                 <span className="mortgage-company-utah-team">
-                  <PageLink class="" page={"Team"} pageLink={"/team"} />
+                  <PageLink class="" page={"Our Process"} pageLink={"/OurProcess"} />
+                </span>
+              </MenuItem>
+              <MenuItem onClick={aboutushandleClose}>
+                <span className="mortgage-company-utah-team">
+                  <PageLink class="" page={"Services"} pageLink={"/Services"} />
                 </span>
               </MenuItem>
             </Menu>
@@ -212,7 +217,7 @@ const Header = () => {
             </div>
             <div className="pageLink">
               <section className="mortgage-company-utah-team-number">
-                <PageLink page="801-520-8475" pageLink="/signup" />
+                <PageLink page="801-520-8475" pageLink="" />
               </section>
             </div>
           </>

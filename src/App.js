@@ -19,6 +19,10 @@ import PalmBeach from "./pages/PalmBeach.jsx";
 import Austin from "./pages/Austin";
 import Dallas from "./pages/Dallas.jsx";
 import Houston from "./pages/Houston";
+import OurProcess from "./pages/OurProcess";
+import Services from "./pages/Services";
+import Disclosure from "./pages/Disclosure.jsx";
+import ClosingGuarantee from "./pages/ClosingGuarantee.jsx";
 
 function App() {
   return (
@@ -44,6 +48,10 @@ function App() {
             <Route path="/Austin" element={<Austin />} />
             <Route path="/Dallas" element={<Dallas />} />
             <Route path="/Houston" element={<Houston />} />
+            <Route path="/OurProcess" element={<OurProcess />} />
+            <Route path="/Services" element={<Services />} />
+            <Route path="/Disclosure" element={<Disclosure />} />
+            <Route path="/ClosingGuarantee" element={<ClosingGuarantee />} />
           </Routes>
         </div>
         <Footer />

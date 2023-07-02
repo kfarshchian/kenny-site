@@ -223,7 +223,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/quickbooks"
+              href="/OurProcess"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -234,7 +234,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/contact"
+              href="/Loans"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -256,7 +256,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/contact"
+              href="/ClosingGuarantee"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -267,18 +267,19 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/contact"
+              href="/Disclosure"
               sx={{
                 color: "black",
                 textTransform: "none",
                 textDecoration: "none",
               }}
             >
-              disclosure and information
+              Disclosure and Information
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/contact"
+              href="https://www.primeres.com/licenses"
+              target="_blank"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -289,7 +290,8 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/contact"
+              href="/Team"
+              target="_blank"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -300,7 +302,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/contact"
+              href="https://www.primeres.com/consumer-voice"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -311,7 +313,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/contact"
+              href="https://www.primeres.com/terms-of-use"
               sx={{
                 color: "black",
                 textTransform: "none",
