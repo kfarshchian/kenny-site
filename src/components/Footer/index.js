@@ -196,9 +196,9 @@ const Footer = () => {
               Houston
             </Link>
           </Stack>
-          <div id="mapDiv">
+          {/* <div id="mapDiv"> */}
             <Map></Map>
-          </div>
+          {/* </div> */}
           <Stack
             direction={{ xs: "column", sm: "column" }}
             id="stackLinks"
@@ -339,7 +339,7 @@ const Footer = () => {
           <div>
             <Typography variant="caption">
               <PinDropIcon />
-              Address:1165 Wilmington Ave #250, Salt Lake City, UT 84106
+              Address:1597 Woodland Park Dr STE 100, Layton, UT 84041
             </Typography>
           </div>
           <div>

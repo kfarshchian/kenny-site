@@ -1,3 +1,9 @@
+#contact-title{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 2px;
+}
 .contact-form{
     width: 400vp;
     margin-top: 20px;
@@ -5,6 +11,9 @@
     ul {
         padding: 0;
         margin: 0;
+        width: 350px;
+        justify-content: center;
+        align-items: center;
     
         li {
           padding: 0;
@@ -36,7 +45,7 @@
         border: 1px solid #E0E0E2;
         height: 50px;
         font-size: 15px;
-        color: white;
+        color: black;
         padding: 0 20px;
         box-sizing: border-box;
         border-radius: 8px;
@@ -48,7 +57,7 @@
         border: 1px solid #E0E0E2;
         height: 50px;
         font-size: 15px;
-        color: white;
+        color: black;
         padding: 20px;
         min-height: 150px;
         box-sizing: border-box;
@@ -57,7 +66,7 @@
 
     .flat-button{
         color: black;
-        background-color: #c4984f !important;
+        background-color: #ED8B00 !important;
         background: 0 0;
         font: 11px;
         letter-spacing: 3px;
@@ -66,7 +75,11 @@
         border: 1px  solid black;
         float: right;
         border-radius: 4px;
+        margin-bottom: 10px;
         
+    }
+    .flat-button:hover{
+        scale: 1.1;
     }
 
 }

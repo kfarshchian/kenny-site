@@ -23,6 +23,8 @@ import OurProcess from "./pages/OurProcess";
 import Services from "./pages/Services";
 import Disclosure from "./pages/Disclosure.jsx";
 import ClosingGuarantee from "./pages/ClosingGuarantee.jsx";
+import { ParallaxProvider } from 'react-scroll-parallax';
+
 
 function App() {
   return (
@@ -30,6 +32,7 @@ function App() {
       <div className="flex-column justify-flex-start min-100-vh">
         <Header />
         <div className="container">
+          <ParallaxProvider>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/Team" element={<Team />} />
@@ -53,6 +56,7 @@ function App() {
             <Route path="/Disclosure" element={<Disclosure />} />
             <Route path="/ClosingGuarantee" element={<ClosingGuarantee />} />
           </Routes>
+          </ParallaxProvider>
         </div>
         <Footer />
       </div>

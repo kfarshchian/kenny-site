@@ -1,6 +1,6 @@
 import React from 'react';
 import './ContactForm.scss'
-// import { Button } from '@mui/material';
+import { Button } from '@mui/material';
 
 function ContactForm() {
   
@@ -9,6 +9,7 @@ function ContactForm() {
     <>
 <div className='contact-form'>
                     {/* <form ref={form} onSubmit={sendEmail}> */}
+                    <h3 id='contact-title'>Request A Free Consultation Today</h3>
                     <form>
                     <ul>
                         <li className="half">
@@ -24,7 +25,7 @@ function ContactForm() {
                 </li>
                 <li>
                   <input
-                    placeholder="Subject"
+                    placeholder="Phone Number"
                     type="text"
                     name="subject"
                     required
@@ -37,12 +38,13 @@ function ContactForm() {
                     required
                   ></textarea>
                 </li>
-                        <li>
-                        <input type="submit" className="flat-button" value="SEND MESSAGE" to="https://kfarshchian.netlify.app/"/>
-                        </li>
+                        {/* <li> */}
+                        {/* <input type="submit" className="flat-button" value="Send Message" to="kfarshchian@gmail.com"/> */}
                         
+                        {/* </li> */}
+                        {/* <Button type="submit" value="Send Message" to="kfarshchian@gmail.com" className="flat-button">Send Message</Button> */}
                     </ul>
-                    {/* <Button className="flat-button">Send Message</Button> */}
+                    <Button type="submit" value="Send Message" to="kfarshchian@gmail.com" className="flat-button">Send Message</Button>
                 </form>
                 </div>
     </>

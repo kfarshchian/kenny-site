@@ -1,5 +1,7 @@
+// All pages
 #mainBody{
     margin-top: 100px;
+
 }
 #logButtons{
     border: 1px solid black;
@@ -51,4 +53,68 @@
 }
 #pointOfSale{
     width: 75%;
+}
+body{
+    padding-top: 112px;
+  }
+  .navbar{
+    top: 0 !important;
+  }
+//   Loans page
+#Reverse-Mortgage-Florida-Container-1{
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+#Reverse-Mortgage-Florida-Container-h1{
+    justify-content: center;
+    align-items: center;
+}
+#Reverse-Mortgage-Florida-Container-banner-title{
+    position: inherit;
+    top: 43%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px !important;
+    color: #ED8B00;
+    text-shadow: rgb(0, 0, 0) 0px 0px 15px;
+}
+#Reverse-Mortgage-Florida-Container-h2{
+    position: inherit;
+    margin: 15px;
+    font-size: 50px !important;
+    color: #4F758B;
+}
+#Reverse-Mortgage-Florida-Container-h3{
+    position: inherit;
+    margin: 15px;
+    color: #4F758B;
+}
+#Reverse-Mortgage-Florida-Container-h4{
+    position: inherit;
+    color: #4F758B;
+}
+#Reverse-Mortgage-Florida-Container-button{
+    background-color: #ED8B00;
+    margin: 15px;
+    border: 1px solid black;
+    color: black;
+}
+#Reverse-Mortgage-Florida-Container-button:hover{
+    transform: scale(1.1); 
+}
+#Reverse-Mortgage-Florida-Container-grid{
+padding: 20px;
+}
+#Reverse-Mortgage-Florida-Container-contact{
+    width: 100%;
+    display: flex;
+    position: relative;
+    background-color: #4F758B;
+    justify-content: center;
+    align-items: center;
+}
+#Reverse-Mortgage-Florida-Container-contact-2{
+    width: 250vp !important;
 }

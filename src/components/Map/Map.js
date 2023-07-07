@@ -8,7 +8,7 @@ function Map() {
 
   return (
     <>
-  <MapContainer  center={[40.7608, -111.8910]} zoom={13} scrollWheelZoom={false}>
+  <MapContainer  center={[41.075105, -111.974193]} zoom={13} scrollWheelZoom={false}>
   <div className='info-map'>
     Kenny Farshchian Utah Mortgage
             </div>
@@ -16,7 +16,7 @@ function Map() {
       attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
     />
-    <Marker position={[40.7608, -111.8910]}>
+    <Marker position={[41.075105, -111.974193]}>
     </Marker>
   </MapContainer>
 
