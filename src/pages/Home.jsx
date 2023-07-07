@@ -1,38 +1,37 @@
 import React from 'react';
-import {  Container } from '@mui/material';
+import { Container } from "@mui/material";
+import { ParallaxBanner } from "react-scroll-parallax";
+import meeting from '../logos/3.jpg'
+import './layout.scss'
 
 
-import meeting from '../logos/3.2.png'
-// import zIndex from '@mui/material/styles/zIndex';
-// import handshake from '../logos/handshake.jpg'
+
+
+
 
 function Home() {
   
 
   return (
     <>
-    <div id='homeOne' style={{ 
-        height: '550px',
-        overflow: "hidden",
-        paddingTop: '100px',
-        zIndex: '-1'
-      }}>
-      <img src={meeting} alt='meeting' style={{ 
-        width: "100%",
-        // height: "100%", 
-        overflow: "hidden"
-      }}/>
+         <ParallaxBanner
+        id="reverse-mortgage-texas-contact-us-Container-1"
+        layers={[
+          { image: meeting, speed: -20 },
+          { image: meeting, speed: -10 },
+        ]}
+        className="aspect-[2/1]"
+      >
+        <div id="reverse-mortgage-texas-contact-us-Container-banner-title">
+          <h1 id="reverse-mortgage-texas-contact-us-Container-h1">
+            Contact Us
+          </h1>
+        </div>
+      </ParallaxBanner>
+
         <Container>
         </Container>
-    </div>
-    <div id='homeTwo'>
-        <Container>
-        </Container>
-    </div>
-    <div id='homeThree'>
-        <Container>
-        </Container>
-    </div>
+  
     </>
   );
 }
