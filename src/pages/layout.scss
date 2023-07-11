@@ -276,3 +276,76 @@ padding: 20px;
 #reverse-mortgage-utah-home-Container-stack-card{
     margin: 20px;
 }
+.slide-in {
+    animation: slideInAnimation 0.5s ease-in forwards;
+    transform: translateX(200%);
+  }
+  
+  @keyframes slideInAnimation {
+    0% {
+      transform: translateX(200%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  .slide-in2 {
+    animation: slideInAnimation 0.5s ease-in forwards;
+    transform: translateX(200%);
+    animation-delay: .5s;
+  }
+  
+  @keyframes slideInAnimation {
+    0% {
+      transform: translateX(200%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  .slide-in3 {
+    animation: slideInAnimation 0.5s ease-in forwards;
+    transform: translateX(200%);
+    animation-delay: .85s;
+  }
+  
+  @keyframes slideInAnimation {
+    0% {
+      transform: translateX(200%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+.reverse-mortgage-utah-home-Container-stack-img1 {
+    display: flex;
+  }
+  
+  .image-container {
+    flex: 1;
+    max-width: 50%;
+    // padding: 1rem;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .text-container {
+    flex: 1;
+    max-width: 50%;
+    padding: 1rem;
+  }
+  
+  /* Media Query for small screens on home screen */
+  @media (max-width: 768px) {
+    .reverse-mortgage-utah-home-Container-stack-img1  {
+      flex-direction: column;
+    }
+  
+    .image-container,
+    .text-container {
+      max-width: 100%;
+    }
+  }
