@@ -338,13 +338,31 @@ padding: 20px;
     max-width: 50%;
     padding: 1rem;
   }
-  
-  
-  #reverse-mortgage-utah-home-parallax-mid{
-    height: 700px;
+ #reverse-mortgage-utah-home-text-1{
+background-color: lightgray;
+display:flex;
+flex-direction:column;
+justify-content:space-between;
+justify-content: center;
+align-items: center;
+ } 
+ #reverse-mortgage-utah-home-text-2{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
     justify-content: center;
-    align-items: center;
- 
+    align-items: center; 
+    color: white;
+    font-size: 15px !important;
+ }
+ #reverse-mortgage-utah-home-text-h2-1{
+    padding: 10px;
+    color: #ED8B00;
+    
+ }
+#reverse-mortgage-utah-home-parallax-mid{
+    height: 600px;
+
 }
   #reverse-mortgage-utah-home-parallax-title{
     position: inherit;
@@ -360,6 +378,11 @@ padding: 20px;
     width: 100%;
     height: 100%;
     opacity: .8;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    justify-content: center;
+    align-items: center;
 }
 #reverse-mortgage-utah-home-parallax-h1{
     justify-content: center;
@@ -367,9 +390,13 @@ padding: 20px;
     text-align: center;
 }
 #reverse-mortgage-utah-home-parallax-p{
+    display:flex;
+    flex-direction:column;
+    width: auto;
+    height: auto;
+    // justify-content:space-between;
     justify-content: center;
     align-items: center;
-    text-align: center;
     font-size: 15px !important;
 }
 // image 2 split 
@@ -400,6 +427,7 @@ padding: 20px;
     margin-right: auto;
     justify-content: center !important;
     align-items: center !important;
+    padding: 15px;
 }
   
 #reverse-mortgage-florida-home-map{
@@ -423,9 +451,6 @@ padding: 20px;
 #reverse-mortgage-texas-home-p{
     text-align: center;
     margin: 10px;
-}
-#reverse-mortgage-texas-home-stack-container{
-
 }
 #reverse-mortgage-texas-home-stack-img{
     display: block;
@@ -458,6 +483,26 @@ padding: 20px;
     margin: 20px;
     font-size: 25px;
     color: black;
+}
+#reverse-mortgage-texas-home-Container-Contactform{
+    text-align: center;
+    display: flex;
+    background-color: #4F758B;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center;
+}
+#panel1a-header{
+    background-color: #4F758B;
+    color: #ED8B00;
+}
+#panel2a-header{
+    background-color: #4F758B;
+    color: #ED8B00;
+}
+#panel3a-header{
+    background-color: #4F758B;
+    color: #ED8B00;
 }
 /* Media Query for small screens on home screen */
 @media (max-width: 768px) {
