@@ -319,6 +319,7 @@ padding: 20px;
   }
 .reverse-mortgage-utah-home-Container-stack-img1 {
     display: flex;
+    margin: 0;
   }
   
   .image-container {
@@ -338,9 +339,139 @@ padding: 20px;
     padding: 1rem;
   }
   
-  /* Media Query for small screens on home screen */
-  @media (max-width: 768px) {
+  
+  #reverse-mortgage-utah-home-parallax-mid{
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+ 
+}
+  #reverse-mortgage-utah-home-parallax-title{
+    position: inherit;
+    // top: 5%;
+    padding-top: 55px;
+    // display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px !important;
+    color: white;
+    text-shadow: rgb(0, 0, 0) 0px 0px 15px;
+    background-color: black !important;
+    width: 100%;
+    height: 100%;
+    opacity: .8;
+}
+#reverse-mortgage-utah-home-parallax-h1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#reverse-mortgage-utah-home-parallax-p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 15px !important;
+}
+// image 2 split 
+.reverse-mortgage-utah-home-Container-stack-img2 {
+    display: flex;
+    margin: 0;
+  }
+  .text-container {
+    flex: 1;
+    max-width: 50%;
+    padding: 1rem;
+    margin: 0;
+    background-color: #4F758B;
+  }
+  .image-container {
+    flex: 1;
+    max-width: 50%;
+    height: 631px;
+    // padding: 1rem;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+  #reverse-mortgage-florida-home-map-container{
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center !important;
+    align-items: center !important;
+}
+  
+#reverse-mortgage-florida-home-map{
+    max-width: 90%;
+    text-align: center;
+    justify-content: center !important;
+    align-items: center !important;
+}
+#reverse-mortgage-florida-home-timeline{
+    text-align: center;
+    margin: 20px;
+    font-size: 25px;
+    color: #4F758B;
+}
+#reverse-mortgage-texas-home-h2{
+    text-align: center;
+    margin: 20px;
+    font-size: 25px;
+    color: #4F758B;
+}
+#reverse-mortgage-texas-home-p{
+    text-align: center;
+    margin: 10px;
+}
+#reverse-mortgage-texas-home-stack-container{
+
+}
+#reverse-mortgage-texas-home-stack-img{
+    display: block;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-position: center;
+    background-position: center;
+    width: 25rem;
+}
+#reverse-mortgage-texas-home-button-container{
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center;
+}
+#reverse-mortgage-texas-home-button{
+    background-color: #ED8B00;
+    margin: 15px;
+    border: 1px solid black;
+    color: black;
+    font-weight:bold;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#reverse-mortgage-texas-home-button:hover{
+    transform: scale(1.1); 
+}
+#reverse-mortgage-texas-home-h2-accordion{
+    text-align: center;
+    margin: 20px;
+    font-size: 25px;
+    color: black;
+}
+/* Media Query for small screens on home screen */
+@media (max-width: 768px) {
     .reverse-mortgage-utah-home-Container-stack-img1  {
+      flex-direction: column;
+    }
+  
+    .image-container,
+    .text-container {
+      max-width: 100%;
+    }
+  }
+  @media (max-width: 768px) {
+    .reverse-mortgage-utah-home-Container-stack-img2{
       flex-direction: column;
     }
   
