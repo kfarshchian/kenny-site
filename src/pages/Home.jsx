@@ -35,6 +35,11 @@ import Accordion from "@mui/material/Accordion";
 import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import LicenseMap from '../logos/kenny-map-reverse-mortgage-utah.png'
+import planImage from '../logos/reverse-mortgage-texas-home-calc.jpg'
+import UtahHouse from '../logos/reverse-mortgage-texas-home-house.jpg'
+import ContractSign from '../logos/reverse-mortgage-texas-home-paper.jpg'
+import ContractRead from '../logos/reverse-mortgage-texas-home-reading.jpg'
 // import {  Modal } from '@mui/material';
 
 function Home() {
@@ -363,7 +368,7 @@ aria-labelledby="modal-modal-title"
           >
             The Best Utah Mortgage Lenders You Can Find
           </h1>
-          <Container>
+          <Container >
             <p id="reverse-mortgage-utah-home-parallax-p">
               If you're looking for the top mortgage lenders in Utah or across
               America, you have found the one that can help you with home
@@ -428,7 +433,7 @@ aria-labelledby="modal-modal-title"
         </div>
       </div>
       {/* paragraph with map */}
-      <Container
+      <Container maxWidth="md"
         id="reverse-mortgage-florida-home-map-1"
         sx={{
           justifyContent: "center",
@@ -459,7 +464,7 @@ aria-labelledby="modal-modal-title"
           <div id="reverse-mortgage-florida-home-map">
             <img
               id="reverse-mortgage-florida-home-map"
-              src={Signing}
+              src={LicenseMap}
               alt="reverse mortgage Utah Moving Boxes"
             />
           </div>
@@ -471,7 +476,7 @@ aria-labelledby="modal-modal-title"
         </div>
       </Container>
       {/* line timeline */}
-      <Container>
+      <Container Container maxWidth="md">
         <div id="reverse-mortgage-florida-home-timeline">
           <h2>4 Step Process for Getting a Loan</h2>
         </div>
@@ -541,7 +546,7 @@ aria-labelledby="modal-modal-title"
         </VerticalTimeline>
       </Container>
       {/* after timeline section */}
-      <Container>
+      <Container maxWidth="md">
         {/* first section */}
         <div id="reverse-mortgage-texas-home-h2">
           <h2>Your Trusted Mortgage Broker In Utah</h2>
@@ -571,7 +576,7 @@ aria-labelledby="modal-modal-title"
           <div id="reverse-mortgage-texas-home-stack-container">
             <img
               id="reverse-mortgage-texas-home-stack-img"
-              src={Signing}
+              src={planImage}
               alt="reverse mortgage Utah Moving Boxes"
             />
           </div>
@@ -632,7 +637,7 @@ aria-labelledby="modal-modal-title"
           <div id="reverse-mortgage-texas-home-stack-container">
             <img
               id="reverse-mortgage-texas-home-stack-img"
-              src={Signing}
+              src={ContractRead}
               alt="reverse mortgage Utah Moving Boxes"
             />
           </div>
@@ -667,7 +672,7 @@ aria-labelledby="modal-modal-title"
           <div id="reverse-mortgage-texas-home-stack-container">
             <img
               id="reverse-mortgage-texas-home-stack-img"
-              src={Signing}
+              src={ContractSign}
               alt="reverse mortgage Utah Moving Boxes"
             />
           </div>
@@ -713,7 +718,7 @@ aria-labelledby="modal-modal-title"
           <Button id="reverse-mortgage-texas-home-button">801-520-8475</Button>
         </div>
       </Container>
-      <Container>
+      <Container maxWidth="md">
         <div id="reverse-mortgage-texas-home-h2">
           <h2>
             Finding the Best Mortgage Lenders in Utah: Tips for a Smooth{" "}
@@ -807,7 +812,7 @@ aria-labelledby="modal-modal-title"
           <div id="reverse-mortgage-texas-home-stack-container">
             <img
               id="reverse-mortgage-texas-home-stack-img"
-              src={Signing}
+              src={UtahHouse}
               alt="reverse mortgage Utah Moving Boxes"
             />
           </div>
