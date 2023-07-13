@@ -40,6 +40,7 @@ import planImage from "../logos/reverse-mortgage-texas-home-calc.jpg";
 import UtahHouse from "../logos/reverse-mortgage-texas-home-house.jpg";
 import ContractSign from "../logos/reverse-mortgage-texas-home-paper.jpg";
 import ContractRead from "../logos/reverse-mortgage-texas-home-reading.jpg";
+import { Helmet } from "react-helmet";
 import Loader from "react-loaders";
 // import {  Modal } from '@mui/material';
 
@@ -865,13 +866,25 @@ aria-labelledby="modal-modal-title"
           <div>
             <p id="reverse-mortgage-texas-home-stack-p">
               Crucial for a successful home purchase, finding the top mortgage
-              lenders in Utah and Utah loan officer like Kenny Farshchian is essential. Research and compare lenders, assess
-              finances, understand loan types, get pre-approved, and maintain
-              open communication with your loan officer for a smooth Utah
-              mortgage experience.
+              lenders in Utah and Utah loan officer like Kenny Farshchian is
+              essential. Research and compare lenders, assess finances,
+              understand loan types, get pre-approved, and maintain open
+              communication with your loan officer for a smooth Utah mortgage
+              experience.
             </p>
           </div>
         </Stack>
+      </Container>
+      <Container>
+        <Helmet>
+          <script
+            src="https://d1gxt2ovmgw1zu.cloudfront.net/custom_reviews_widget_script.js"
+            ss-custom-reviews-widget-api-key="YVrdF2s34AXyXZbfXfRdmOTu9IzfQIMXshQUIlYJkAocl-kPn1ImZPMUgwdewc2aokKBBr9CZbyDWUw3"
+            widget-key="DmODg32KAxhrh1Mw3kS1HA"
+            type="text/javascript"
+          />
+        </Helmet>
+        <div id="ss-custom-reviews-widget-root" />
       </Container>
       {/* Faqs accordion*/}
       <div id="reverse-mortgage-texas-home-h2-accordion">
