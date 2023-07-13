@@ -125,7 +125,7 @@ const Header = () => {
                     <span className="mortgage-company-utah-team">
                     <PageLink
                         page={"Salt Lake City"}
-                        pageLink={`/mortgage-lenders-salt-lake-city`}
+                        pageLink={`/Utah-mortgage-salt-lake-city`}
                       ></PageLink>
                       <PageLink
                         page={"Layton"}

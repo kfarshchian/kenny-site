@@ -4,6 +4,13 @@ import { ParallaxBanner } from 'react-scroll-parallax';
 import './layout.scss'
 import { Container, Button, Grid } from '@mui/material';
 import Contactform from '../components/ContactForm/ContactForm'
+import Loader from 'react-loaders'
+
+
+
+
+
+
 function Loans() {
   
 
@@ -139,6 +146,7 @@ function Loans() {
         <div id='Reverse-Mortgage-Florida-Container-contact'>
         <Contactform id='Reverse-Mortgage-Florida-Container-contact-2'></Contactform>
         </div>
+        <Loader type="ball-rotate" />
     </>
   );
 }

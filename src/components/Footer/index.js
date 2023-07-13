@@ -51,7 +51,7 @@ const Footer = () => {
             <h3 id="stateName" className="stateNameUtah" >Utah</h3>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/SaltLakeCity"
+              href="/mortgage-lenders-salt-lake-city"
               sx={{
                 color: "black",
                 textTransform: "none",

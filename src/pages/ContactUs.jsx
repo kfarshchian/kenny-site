@@ -6,6 +6,7 @@ import ForwardToInboxIcon from "@mui/icons-material/ForwardToInbox";
 import ContactForm from "../components/ContactForm/ContactForm";
 import reverseMortgageTexas from "../logos/reverse-mortgage-florida-reverse-mortgage-texas-contact-us.jpg";
 import { ParallaxBanner } from "react-scroll-parallax";
+import Loader from 'react-loaders'
 import './layout.scss'
 
 
@@ -115,6 +116,7 @@ function ContactUs() {
           for you.
         </p>
       </Container>
+      <Loader type="ball-rotate" />
     </>
   );
 }

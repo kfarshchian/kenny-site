@@ -40,6 +40,7 @@ import planImage from '../logos/reverse-mortgage-texas-home-calc.jpg'
 import UtahHouse from '../logos/reverse-mortgage-texas-home-house.jpg'
 import ContractSign from '../logos/reverse-mortgage-texas-home-paper.jpg'
 import ContractRead from '../logos/reverse-mortgage-texas-home-reading.jpg'
+import Loader from 'react-loaders'
 // import {  Modal } from '@mui/material';
 
 function Home() {
@@ -959,6 +960,7 @@ aria-labelledby="modal-modal-title"
       <div id="reverse-mortgage-texas-home-Container-Contactform">
         <ContactForm id="reverse-mortgage-texas-home-Container-Contactform2" />
       </div>
+      <Loader type="ball-rotate" />
     </>
   );
 }

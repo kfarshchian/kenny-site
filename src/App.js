@@ -24,7 +24,7 @@ import Services from "./pages/Services";
 import Disclosure from "./pages/Disclosure.jsx";
 import ClosingGuarantee from "./pages/ClosingGuarantee.jsx";
 import { ParallaxProvider } from 'react-scroll-parallax';
-
+import './theme.scss'
 
 function App() {
   return (
@@ -34,12 +34,12 @@ function App() {
         <div className="container">
           <ParallaxProvider>
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/" element={<Home />}/>
             <Route path="/Team" element={<Team />} />
             <Route path="/AboutUs" element={<AboutUs />} />
             <Route path="/Loans" element={<Loans />} />
             <Route path="/contact" element={<ContactUs />} />
-            <Route path="/SaltLakeCity" element={<SaltLakeCity />} />
+            <Route path="/Utah-mortgage-salt-lake-city" element={<SaltLakeCity />} />
             <Route path="/Layton" element={<Layton />} />
             <Route path="/Bountiful" element={<Bountiful />} />
             <Route path="/Syracuse" element={<Syracuse />} />

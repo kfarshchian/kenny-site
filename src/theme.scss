@@ -6,6 +6,32 @@
       font-size: '12px' !important;
     }
 }
+$primary-color: #ED8B00;
+@import 'animate.css';
+@import '~loaders.css/src/animations/ball-rotate.scss';
+// .loader-hidden {
+//   display: none;
+// }
+.loader-hidden {
+  display: none;
+}
+.loader-active {
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  animation: fadeOut .8s .8s;
+  animation-fill-mode: forwards;
+  background-color: #4F758B;
+}
+
 body{
   padding-top: 110px;
 }
