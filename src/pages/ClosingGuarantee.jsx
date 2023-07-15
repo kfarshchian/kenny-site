@@ -1,6 +1,7 @@
 import React, {useEffect} from "react";
 import { ParallaxBanner } from "react-scroll-parallax";
 import closingGuarantee from "../logos/mortgage-broker-utah-approved.jpg";
+import ContactForm from "../components/ContactForm/ContactForm";
 
 function ClosingGuarantee() {
   useEffect(() => {
@@ -31,6 +32,10 @@ function ClosingGuarantee() {
         </div>
       </ParallaxBanner>
 
+
+      <div id="Reverse-Mortgage-Florida-Container-contact">
+        <ContactForm id="Reverse-Mortgage-Florida-Container-contact-2"></ContactForm>
+      </div>
     </>
   );
 }

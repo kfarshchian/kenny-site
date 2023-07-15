@@ -912,14 +912,17 @@ aria-labelledby="modal-modal-title"
               id="panel1a-header"
             >
               <Typography sx={{ fontWeight: "bold", letterSpacing: "1px" }}>
-                Accordion 1
+                How much mortgage can I afford with my salary?
               </Typography>
             </AccordionSummary>
             <AccordionDetails>
               <Typography>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                eget.
+                To determine how much mortgage you can afford with your salary,
+                it's important to consider various factors such as your income,
+                expenses, debt obligations, and the prevailing interest rates. A
+                commonly used guideline is the debt-to-income ratio (DTI), which
+                indicates the portion of your monthly income that goes towards
+                debt payments, including your mortgage.
               </Typography>
             </AccordionDetails>
           </Accordion>
@@ -930,14 +933,18 @@ aria-labelledby="modal-modal-title"
               id="panel2a-header"
             >
               <Typography sx={{ fontWeight: "bold", letterSpacing: "1px" }}>
-                Accordion 2
+                What is a reverse mortgage?
               </Typography>
             </AccordionSummary>
             <AccordionDetails>
               <Typography>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                eget.
+                A reverse mortgage is a financial product designed for
+                homeowners who are typically aged 62 or older and have
+                significant equity in their homes. Unlike a traditional mortgage
+                where the borrower makes monthly payments to the lender, a
+                reverse mortgage allows the homeowner to receive payments from
+                the lender, effectively converting a portion of their home
+                equity into cash.
               </Typography>
             </AccordionDetails>
           </Accordion>
@@ -948,14 +955,17 @@ aria-labelledby="modal-modal-title"
               id="panel3a-header"
             >
               <Typography sx={{ fontWeight: "bold", letterSpacing: "1px" }}>
-                Accordion 3
+                What is a mortgage?
               </Typography>
             </AccordionSummary>
             <AccordionDetails>
               <Typography>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                eget.
+                A mortgage is a type of loan that is used to finance the
+                purchase of a property, such as a home or an investment
+                property. It is a legal agreement between the borrower (the
+                person purchasing the property) and the lender (usually a bank
+                or financial institution) that allows the borrower to borrow a
+                specific amount of money to buy the property.
               </Typography>
             </AccordionDetails>
           </Accordion>
@@ -968,14 +978,22 @@ aria-labelledby="modal-modal-title"
               id="panel1a-header"
             >
               <Typography sx={{ fontWeight: "bold", letterSpacing: "1px" }}>
-                Accordion 1
+                How long does it take to get a mortgage?
               </Typography>
             </AccordionSummary>
             <AccordionDetails>
               <Typography>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                eget.
+                The time it takes to get a mortgage can vary depending on
+                several factors, including the complexity of your financial
+                situation, the lender's process, and the efficiency of the
+                parties involved. Here is a general timeline of the mortgage
+                process:<br></br>
+                <br></br>
+                1. Pre-approval <br></br>
+                2. Loan application<br></br>
+                3. Loan processing<br></br>
+                4. Underwriting<br></br>
+                5. Loan approval and closing<br></br>
               </Typography>
             </AccordionDetails>
           </Accordion>
@@ -986,14 +1004,17 @@ aria-labelledby="modal-modal-title"
               id="panel2a-header"
             >
               <Typography sx={{ fontWeight: "bold", letterSpacing: "1px" }}>
-                Accordion 2
+                What is mortgage insurance?
               </Typography>
             </AccordionSummary>
             <AccordionDetails>
               <Typography>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                eget.
+                Mortgage insurance is a type of insurance that protects the
+                lender in case the borrower defaults on their mortgage payments.
+                It is typically required when the borrower makes a down payment
+                of less than 20% of the home's purchase price. Mortgage
+                insurance allows lenders to offer loans with a lower down
+                payment while mitigating their risk.
               </Typography>
             </AccordionDetails>
           </Accordion>
@@ -1004,14 +1025,27 @@ aria-labelledby="modal-modal-title"
               id="panel3a-header"
             >
               <Typography sx={{ fontWeight: "bold", letterSpacing: "1px" }}>
-                Accordion 3
+                How do I get a mortgage?
               </Typography>
             </AccordionSummary>
             <AccordionDetails>
               <Typography>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                eget.
+                To get a mortgage, you generally need to follow these steps:
+                <br></br>
+                <br></br>
+                1. Determine your financial readiness <br></br>
+                2. Research and compare lenders<br></br>
+                3. Get pre-approved<br></br>
+                4. Gather necessary documents<br></br>
+                5. Complete the mortgage application<br></br>
+                6. Loan processing and underwriting<br></br>
+                8. Loan approval and close the loan<br></br><br></br>
+                It's important to note that the mortgage process can vary among
+                lenders, and the timeline can be influenced by factors such as
+                the complexity of your application, responsiveness in providing
+                documentation, and the lender's workload. Working closely with
+                your chosen lender and keeping communication open will help
+                streamline the process. Regenerate response
               </Typography>
             </AccordionDetails>
           </Accordion>

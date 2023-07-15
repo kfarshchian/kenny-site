@@ -73,7 +73,7 @@ function AboutUs() {
         </Stack>
         <p id="reverse-mortgage-florida-aboutus-stack-p">
           When he's not busy with his responsibilities as a Utah loan officer, Kenny
-          cherishes spending quality time with his five children. Family holds
+          cherishes spending quality time with his wife and five children. Family holds
           a special place in his heart, and he values the moments shared
           together. Furthermore, he believes that family camping trips are an
           excellent opportunity to bond and create lasting memories. In addition
