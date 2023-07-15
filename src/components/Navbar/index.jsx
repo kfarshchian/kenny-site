@@ -91,12 +91,12 @@ const Header = () => {
               </MenuItem>
               <MenuItem onClick={aboutushandleClose}>
                 <span className="mortgage-company-utah-team">
-                  <PageLink class="" page={"Our Process"} pageLink={"/OurProcess"} />
+                  <PageLink class="" page={"Our Process"} pageLink={"/our-process"} />
                 </span>
               </MenuItem>
               <MenuItem onClick={aboutushandleClose}>
                 <span className="mortgage-company-utah-team">
-                  <PageLink class="" page={"Services"} pageLink={"/Services"} />
+                  <PageLink class="" page={"Closing Guarantee"} pageLink={"/closing-guarantee"} />
                 </span>
               </MenuItem>
             </Menu>
@@ -182,29 +182,13 @@ const Header = () => {
                   </NestedMenuItem>
                 </span>
               </MenuItem>
-              <MenuItem onClick={serviceAreahandleClose}>
-                <span className="mortgage-company-utah-team">
-                  <NestedMenuItem
-                    label="All Others"
-                    style={pageLinks}
-                    parentMenuOpen={open}
-                  >
-                    <span className="mortgage-company-utah-team">
-                      <PageLink
-                        page={"All Others"}
-                        pageLink={`/accountingdictionary`}
-                      />
-                    </span>
-                  </NestedMenuItem>
-                </span>
-              </MenuItem>
             </Menu>
           </div>
           <div className="pageLink">
             <PageLink id="pageLink" page={"Contact Us"} pageLink={"/contact"} />
           </div>
           <div className="pageLink">
-            <PageLink id="pageLink" page={"Loans"} pageLink={"/Loans"} />
+            <PageLink id="pageLink" page={"Loans"} pageLink={"/loans"} />
           </div>
         </div>
         {/* This is the user link sections */}

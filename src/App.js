@@ -20,7 +20,6 @@ import Austin from "./pages/Austin";
 import Dallas from "./pages/Dallas.jsx";
 import Houston from "./pages/Houston";
 import OurProcess from "./pages/OurProcess";
-import Services from "./pages/Services";
 import Disclosure from "./pages/Disclosure.jsx";
 import ClosingGuarantee from "./pages/ClosingGuarantee.jsx";
 import { ParallaxProvider } from 'react-scroll-parallax';
@@ -36,8 +35,8 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />}/>
             <Route path="/Team" element={<Team />} />
-            <Route path="/AboutUs" element={<AboutUs />} />
-            <Route path="/Loans" element={<Loans />} />
+            <Route path="/aboutus" element={<AboutUs />} />
+            <Route path="/loans" element={<Loans />} />
             <Route path="/contact" element={<ContactUs />} />
             <Route path="/Utah-mortgage-salt-lake-city" element={<SaltLakeCity />} />
             <Route path="/Layton" element={<Layton />} />
@@ -51,10 +50,9 @@ function App() {
             <Route path="/Austin" element={<Austin />} />
             <Route path="/Dallas" element={<Dallas />} />
             <Route path="/Houston" element={<Houston />} />
-            <Route path="/OurProcess" element={<OurProcess />} />
-            <Route path="/Services" element={<Services />} />
+            <Route path="/our-process" element={<OurProcess />} />
             <Route path="/Disclosure" element={<Disclosure />} />
-            <Route path="/ClosingGuarantee" element={<ClosingGuarantee />} />
+            <Route path="/closing-guarantee" element={<ClosingGuarantee />} />
           </Routes>
           </ParallaxProvider>
         </div>

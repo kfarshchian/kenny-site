@@ -223,7 +223,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/OurProcess"
+              href="/our-process"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -234,7 +234,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/Loans"
+              href="/loans"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -256,7 +256,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/ClosingGuarantee"
+              href="/closing-guarantee"
               sx={{
                 color: "black",
                 textTransform: "none",

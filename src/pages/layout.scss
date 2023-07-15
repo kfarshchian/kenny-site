@@ -547,6 +547,28 @@ align-items: center;
     background-position: center;
     width: 25rem;
 }
+// Closing Guarantee
+#mortgage-broker-utah-closing-guarantee-Container-1{
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+#mortgage-broker-utah-closing-guarantee-Container-banner-title{
+    position: inherit;
+    top: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px !important;
+    color: #ED8B00;
+    text-shadow: rgb(0, 0, 0) 0px 0px 15px;
+}
+#mortgage-broker-utah-closing-guarantee-Container-h1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 /* Media Query for small screens on home screen */
 @media (max-width: 768px) {
     .reverse-mortgage-utah-home-Container-stack-img1  {
