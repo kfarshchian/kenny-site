@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useEffect} from "react";
 import { Container, Stack, Divider } from "@mui/material";
 import PinDropIcon from "@mui/icons-material/PinDrop";
 import LocalPhoneIcon from "@mui/icons-material/LocalPhone";
@@ -11,6 +11,9 @@ import './layout.scss'
 
 
 function ContactUs() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <>
       <ParallaxBanner

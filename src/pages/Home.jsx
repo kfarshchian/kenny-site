@@ -45,6 +45,9 @@ import Loader from "react-loaders";
 // import {  Modal } from '@mui/material';
 
 function Home() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   // Modal JS
   // const [open, setOpen] = useState(false);
 

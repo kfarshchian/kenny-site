@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import reverseMortgageFlorida from '../logos/reverse-mortgage-florida-reverse-mortgage-texas.png'
 import { ParallaxBanner } from 'react-scroll-parallax';
 import './layout.scss'
@@ -12,9 +12,12 @@ import Loader from 'react-loaders'
 
 
 function Loans() {
-  
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
+    
     <>
         <ParallaxBanner
         id='Reverse-Mortgage-Florida-Container-1'

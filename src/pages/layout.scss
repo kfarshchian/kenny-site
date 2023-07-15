@@ -504,8 +504,49 @@ align-items: center;
    padding: 10px;
 }
 // About us
-
-
+#reverse-mortgage-florida-aboutus-Container-1{
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+#reverse-mortgage-florida-aboutus-banner-title{
+    position: inherit;
+    top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px !important;
+    color: #ED8B00;
+    text-shadow: rgb(0, 0, 0) 0px 0px 15px;
+}
+#reverse-mortgage-florida-aboutus-Container-h1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#reverse-mortgage-florida-aboutus-Container-h2{
+    font-family: 'Rock Salt', cursive !important;
+    font-size: 35px;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+#reverse-mortgage-florida-aboutus-stack-p{
+    font-size: large;
+}
+#reverse-mortgage-florida-aboutus-stack-p-3{
+    font-size: large;
+    padding-bottom: 20px;
+}
+#reverse-mortgage-florida-aboutus-stack-img-kenny{
+    display: block;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-position: center;
+    background-position: center;
+    width: 25rem;
+}
 /* Media Query for small screens on home screen */
 @media (max-width: 768px) {
     .reverse-mortgage-utah-home-Container-stack-img1  {
