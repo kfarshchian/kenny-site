@@ -31,7 +31,7 @@ function AboutUs() {
             title="reverse mortgage utah"
             id="reverse-mortgage-florida-aboutus-Container-h1"
           >
-            Kenny Farshchian: <br></br> Utah Loan Officer and Utah Mortgage
+            Utah Loan Officer <br></br> and Utah Mortgage
             Broker
           </h1>
         </div>
