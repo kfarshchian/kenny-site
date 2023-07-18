@@ -72,7 +72,7 @@ function AppNav({handleClose, pages, pageLinks, children}) {
         animate="visible"
         exit="exit"
       >
-        <AppNavItem handleClose={handleClose} page={'Home'} pageLink={'/'}/>
+        <AppNavItem id="mobilenav" handleClose={handleClose} page={'Home'} pageLink={'/'}/>
         <AppNavItem handleClose={handleClose} page={'About Us'} pageLink={'/aboutus'}/>
         <AppNavItem handleClose={handleClose} page={'Loans'} pageLink={'/Loans'}/>
         <AppNavItem handleClose={handleClose} page={'Contact Us'} pageLink={'/contact'}/>
@@ -82,7 +82,8 @@ function AppNav({handleClose, pages, pageLinks, children}) {
         
         <div id="buttonDiv">
       <Button
-        id="basic-button"
+      className="navButton"
+        id="mobilenav"
         aria-controls={open ? 'basic-menu' : undefined}
         aria-haspopup="true"
         aria-expanded={open ? 'true' : undefined}
@@ -91,7 +92,8 @@ function AppNav({handleClose, pages, pageLinks, children}) {
         Utah
       </Button>
       <Menu
-        id="basic-menu"
+      className="navButton"
+        id="mobilenav"
         anchorEl={anchorEl}
         open={open}
         onClose={handleClose1}
@@ -99,18 +101,19 @@ function AppNav({handleClose, pages, pageLinks, children}) {
           'aria-labelledby': 'basic-button',
         }}
       >
-        <MenuItem onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'Salt Lake City'} pageLink={'/Utah-mortgage-salt-lake-city'}/></MenuItem>
-        <MenuItem onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'Layton'} pageLink={'/Utah-mortgage-Layton'}/></MenuItem>
-        <MenuItem onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'Bountiful'} pageLink={'/Utah-mortgage-Bountiful'}/></MenuItem>
-        <MenuItem onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'Syracuse'} pageLink={'/Utah-Mortgage-Syracuse'}/></MenuItem>
-        <MenuItem onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'Ogden'} pageLink={'/Reverse-mortgage-Utah-Ogden'}/></MenuItem>
-        <MenuItem onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'West Valley City'} pageLink={'/Reverse-mortgage-Utah-WestValleyCity'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'Salt Lake City'} pageLink={'/Utah-mortgage-salt-lake-city'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'Layton'} pageLink={'/Utah-mortgage-Layton'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'Bountiful'} pageLink={'/Utah-mortgage-Bountiful'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'Syracuse'} pageLink={'/Utah-Mortgage-Syracuse'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'Ogden'} pageLink={'/Reverse-mortgage-Utah-Ogden'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleClose1}><AppNavItem handleClose={handleClose} page={'West Valley City'} pageLink={'/Reverse-mortgage-Utah-WestValleyCity'}/></MenuItem>
       </Menu>
     </div>
 
     <div id="buttonDiv">
       <Button
-        id="basic-button"
+      className="navButton"
+        id="mobilenav"
         aria-controls={openflorida ? 'basic-menu' : undefined}
         aria-haspopup="true"
         aria-expanded={openflorida ? 'true' : undefined}
@@ -127,15 +130,16 @@ function AppNav({handleClose, pages, pageLinks, children}) {
           'aria-labelledby': 'basic-button',
         }}
       >
-        <MenuItem onClick={handleCloseflorida}><AppNavItem handleClose={handleClose} page={'Venice'} pageLink={'/Reverse-mortgage-Florida-Venice'}/></MenuItem>
-        <MenuItem onClick={handleCloseflorida}><AppNavItem handleClose={handleClose} page={'Palm Beach'} pageLink={'/Reverse-mortgage-Florida-Palm-Beach'}/></MenuItem>
-        <MenuItem onClick={handleCloseflorida}><AppNavItem handleClose={handleClose} page={'Naples'} pageLink={'/Reverse-mortgage-Florida-Naples'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleCloseflorida}><AppNavItem handleClose={handleClose} page={'Venice'} pageLink={'/Reverse-mortgage-Florida-Venice'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleCloseflorida}><AppNavItem handleClose={handleClose} page={'Palm Beach'} pageLink={'/Reverse-mortgage-Florida-Palm-Beach'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleCloseflorida}><AppNavItem handleClose={handleClose} page={'Naples'} pageLink={'/Reverse-mortgage-Florida-Naples'}/></MenuItem>
       </Menu>
     </div>
         
     <div id="buttonDiv">
       <Button
-        id="basic-button"
+      className="navButton"
+        id="mobilenav"
         aria-controls={openTexas ? 'basic-menu' : undefined}
         aria-haspopup="true"
         aria-expanded={openTexas ? 'true' : undefined}
@@ -145,6 +149,7 @@ function AppNav({handleClose, pages, pageLinks, children}) {
       </Button>
       <Menu
         id="basic-menu"
+        
         anchorEl={anchorElTexas}
         open={openTexas}
         onClose={handleCloseTexas}
@@ -152,9 +157,9 @@ function AppNav({handleClose, pages, pageLinks, children}) {
           'aria-labelledby': 'basic-button',
         }}
       >
-        <MenuItem onClick={handleCloseTexas}><AppNavItem handleClose={handleClose} page={'Austin'} pageLink={'/Reverse-mortgage-Texas-Austin'}/></MenuItem>
-        <MenuItem onClick={handleCloseTexas}><AppNavItem handleClose={handleClose} page={'Dallas'} pageLink={'/Reverse-mortgage-Texas-Dallas'}/></MenuItem>
-        <MenuItem onClick={handleCloseTexas}><AppNavItem handleClose={handleClose} page={'Houston'} pageLink={'/Reverse-mortgage-Texas-Houston'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleCloseTexas}><AppNavItem handleClose={handleClose} page={'Austin'} pageLink={'/Reverse-mortgage-Texas-Austin'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleCloseTexas}><AppNavItem handleClose={handleClose} page={'Dallas'} pageLink={'/Reverse-mortgage-Texas-Dallas'}/></MenuItem>
+        <MenuItem sx={{backgroundColor: "#4F758B"}} onClick={handleCloseTexas}><AppNavItem handleClose={handleClose} page={'Houston'} pageLink={'/Reverse-mortgage-Texas-Houston'}/></MenuItem>
       </Menu>
     </div>
      
