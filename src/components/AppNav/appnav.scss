@@ -3,7 +3,32 @@
   font-family: 'Lato', sans-serif !important;
 }
 .nav-modal{
-  background: white;
-  padding-top: 2rem;
+  background: #4F758B;
+  padding-top: 5px;
   overflow: hidden;
+}
+.link-container{
+  opacity: 1 !important;
+}
+a{
+  text-align: center;
+  padding: 3px;
+  font-size: 15px !important;
+  color: #ED8B00;
+  text-shadow: rgb(0, 0, 0) 0px 0px 15px;
+  font-weight: 900;
+}
+#basic-button{
+  color: #ED8B00;
+  font-size: 15px;
+  text-decoration: none !important;
+  padding: 5px;
+  margin: 0 !important;
+  text-transform: none !important;
+  text-shadow: rgb(0, 0, 0) 0px 0px 15px;
+  font-weight: 900;
+}
+#buttonDiv{
+  display: flex;
+  justify-content: center;
 }

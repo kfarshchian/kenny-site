@@ -129,23 +129,23 @@ const Header = () => {
                       ></PageLink>
                       <PageLink
                         page={"Layton"}
-                        pageLink={`/layton`}
+                        pageLink={`/Utah-mortgage-Layton`}
                       ></PageLink>
                       <PageLink
                         page={"Bountiful"}
-                        pageLink={`/bountiful`}
+                        pageLink={`/Utah-mortgage-Bountiful`}
                       ></PageLink>
                       <PageLink
                         page={"Syracuse"}
-                        pageLink={`/syracuse`}
+                        pageLink={`/Utah-Mortgage-Syracuse`}
                       ></PageLink>
                       <PageLink
                         page={"Ogden"}
-                        pageLink={`/ogden`}
+                        pageLink={`/Reverse-mortgage-Utah-Ogden`}
                       ></PageLink>
                       <PageLink
                         page={"West Valley City"}
-                        pageLink={`/westvalleycity`}
+                        pageLink={`/wReverse-mortgage-Utah-WestValleyCity`}
                       ></PageLink>
                       
                     </span>
@@ -160,9 +160,9 @@ const Header = () => {
                     parentMenuOpen={open}
                   >
                     <span className="mortgage-company-utah-team">
-                      <PageLink page={"Venice"} pageLink={`/Venice`} />
-                      <PageLink page={"Palm Beach"} pageLink={`/palm-beach`} />
-                      <PageLink page={"Naples"} pageLink={`/Naples`} />
+                      <PageLink page={"Venice"} pageLink={`/Reverse-mortgage-Florida-Venice`} />
+                      <PageLink page={"Palm Beach"} pageLink={`/Reverse-mortgage-Florida-Palm-Beach`} />
+                      <PageLink page={"Naples"} pageLink={`/Reverse-mortgage-Florida-Naples`} />
                     </span>
                   </NestedMenuItem>
                 </span>
@@ -175,9 +175,9 @@ const Header = () => {
                     parentMenuOpen={open}
                   >
                     <span className="mortgage-company-utah-team">
-                      <PageLink page={"Austin"} pageLink={`/Austin`} />
-                      <PageLink page={"Houston"} pageLink={`/Houston`} />
-                      <PageLink page={"Dallas"} pageLink={`/Dallas`} />
+                      <PageLink page={"Austin"} pageLink={`/Reverse-mortgage-Texas-Austin`} />
+                      <PageLink page={"Houston"} pageLink={`/Reverse-mortgage-Texas-Dallas`} />
+                      <PageLink page={"Dallas"} pageLink={`/Reverse-mortgage-Texas-Houston`} />
                     </span>
                   </NestedMenuItem>
                 </span>

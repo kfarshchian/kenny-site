@@ -5,6 +5,7 @@ import ContactForm from "../components/ContactForm/ContactForm";
 import saltLakeCity from "../logos/utah-mortgage-salt-lake-city.jpg";
 import movingBoxes from "../logos/reverse-mortgage-utah-moving.jpg";
 import Loader from "react-loaders";
+import projectSection from "../logos/project-reverse-mortgage-utah.jpg"
 
 function SaltLakeCity() {
   useEffect(() => {
@@ -188,7 +189,7 @@ function SaltLakeCity() {
           <div id="reverse-mortgage-texas-home-stack-container">
             <img
               id="reverse-mortgage-texas-home-stack-img"
-              src={movingBoxes}
+              src={projectSection}
               alt="reverse mortgage Utah Moving Boxes"
             />
           </div>

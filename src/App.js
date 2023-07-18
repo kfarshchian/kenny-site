@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Header from "./components/Navbar";
 import Footer from "./components/Footer";
-import Team from "./pages/Team";
 import Loans from "./pages/Loans";
 import ContactUs from "./pages/ContactUs";
 import SaltLakeCity from "./pages/SaltLakeCity";
@@ -34,22 +33,21 @@ function App() {
           <ParallaxProvider>
           <Routes>
             <Route path="/" element={<Home />}/>
-            <Route path="/Team" element={<Team />} />
             <Route path="/aboutus" element={<AboutUs />} />
             <Route path="/loans" element={<Loans />} />
             <Route path="/contact" element={<ContactUs />} />
             <Route path="/Utah-mortgage-salt-lake-city" element={<SaltLakeCity />} />
-            <Route path="/Layton" element={<Layton />} />
-            <Route path="/Bountiful" element={<Bountiful />} />
-            <Route path="/Syracuse" element={<Syracuse />} />
-            <Route path="/Ogden" element={<Ogden />} />
-            <Route path="/WestValleyCity" element={<WestValleyCity />} />
-            <Route path="/Venice" element={<Venice />} />
-            <Route path="/Palm-Beach" element={<PalmBeach />} />
-            <Route path="/Naples" element={<Naples />} />
-            <Route path="/Austin" element={<Austin />} />
-            <Route path="/Dallas" element={<Dallas />} />
-            <Route path="/Houston" element={<Houston />} />
+            <Route path="/Utah-mortgage-Layton" element={<Layton />} />
+            <Route path="/Utah-mortgage-Bountiful" element={<Bountiful />} />
+            <Route path="/Utah-Mortgage-Syracuse" element={<Syracuse />} />
+            <Route path="/Reverse-mortgage-Utah-Ogden" element={<Ogden />} />
+            <Route path="/Reverse-mortgage-Utah-WestValleyCity" element={<WestValleyCity />} />
+            <Route path="/Reverse-mortgage-Florida-Venice" element={<Venice />} />
+            <Route path="/Reverse-mortgage-Florida-Palm-Beach" element={<PalmBeach />} />
+            <Route path="/Reverse-mortgage-Florida-Naples" element={<Naples />} />
+            <Route path="/Reverse-mortgage-Texas-Austin" element={<Austin />} />
+            <Route path="/Reverse-mortgage-Texas-Dallas" element={<Dallas />} />
+            <Route path="/Reverse-mortgage-Texas-Houston" element={<Houston />} />
             <Route path="/our-process" element={<OurProcess />} />
             <Route path="/Disclosure" element={<Disclosure />} />
             <Route path="/closing-guarantee" element={<ClosingGuarantee />} />
