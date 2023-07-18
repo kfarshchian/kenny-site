@@ -459,21 +459,24 @@ aria-labelledby="modal-modal-title"
         <div id="reverse-mortgage-florida-home-map-container">
           <br></br>
           <p>
-            As direct mortgage lenders in Utah, Primary Residential Mortgage,
-            Inc. is committed to getting you the best terms for your mortgage.
-            We have all the different mortgage loan products; Including Fannie
-            Mae / Freddie Mac, Adjustable-rate mortgages (ARM), FHA loans, VA
-            loans, HUD programs, USDA loans, Second Home & Investment loans.
-            Steve and his team do things differently; by going to work for you
-            and finding the best program to fit your needs and goals
+            As direct mortgage lenders based in Utah, Primary Residential
+            Mortgage, Inc. is wholly dedicated to securing the most favorable
+            terms for your mortgage. With a comprehensive range of mortgage loan
+            products, including Fannie Mae / Freddie Mac, Adjustable-rate
+            mortgages (ARM), FHA loans, VA loans, HUD programs, USDA loans,
+            Second Home & Investment loans, we have the flexibility to cater to
+            your specific needs and aspirations. Kenny and his team approach
+            things uniquely, working on your behalf to identify the optimal
+            program that aligns perfectly with your requirements and goals.
           </p>
           <br></br>
           <p>
-            Being a nationwide lender; we have worked tirelessly adding many
-            layers of security + technology so that our team can work remotely.
-            This allows us to take care of you without the need to be physically
-            present at the different locations we are licensed in. Contact us
-            today to get started!
+            As a nationwide lender, we have tirelessly invested in implementing
+            multiple layers of security and cutting-edge technology. These
+            advancements enable our team to operate remotely, effectively
+            serving you without requiring a physical presence in the various
+            locations where we are licensed. Don't hesitate to reach out to us
+            today and take the first step towards your mortgage journey!
           </p>
           <br></br>
           <br></br>
@@ -566,8 +569,8 @@ aria-labelledby="modal-modal-title"
         {/* first section */}
         <div id="reverse-mortgage-texas-home-h2">
           <h2>
-            Your Trusted Utah Mortgage Broker in Utah: Kenny Farshchian at
-            Primary Residential Mortgage, Inc.
+            Your Trusted Utah Loan Officer: Kenny Farshchian at Primary
+            Residential Mortgage, Inc.
           </h2>
         </div>
         <div id="reverse-mortgage-texas-home-p">
@@ -1039,7 +1042,8 @@ aria-labelledby="modal-modal-title"
                 4. Gather necessary documents<br></br>
                 5. Complete the mortgage application<br></br>
                 6. Loan processing and underwriting<br></br>
-                8. Loan approval and close the loan<br></br><br></br>
+                8. Loan approval and close the loan<br></br>
+                <br></br>
                 It's important to note that the mortgage process can vary among
                 lenders, and the timeline can be influenced by factors such as
                 the complexity of your application, responsiveness in providing
