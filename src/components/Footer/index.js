@@ -51,7 +51,7 @@ const Footer = () => {
             <h3 id="stateName" className="stateNameUtah" >Utah</h3>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/mortgage-lenders-salt-lake-city"
+              href="/Utah-mortgage-salt-lake-city"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -62,7 +62,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/Layton"
+              href="/Utah-mortgage-Layton"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -73,7 +73,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/Bountiful"
+              href="/Utah-mortgage-Bountiful"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -84,7 +84,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/Syracuse"
+              href="/Utah-Mortgage-Syracuse"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -95,7 +95,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/Ogden"
+              href="/Reverse-mortgage-Utah-Ogden"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -106,7 +106,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/West Valley City"
+              href="/Reverse-mortgage-Utah-WestValleyCity"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -130,7 +130,7 @@ const Footer = () => {
             <h3 id="stateName" >Florida</h3>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/Venice"
+              href="/Reverse-mortgage-Florida-Venice"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -141,7 +141,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/PalmBeach"
+              href="/Reverse-mortgage-Florida-Palm-Beach"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -152,7 +152,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/Naples"
+              href="/Reverse-mortgage-Florida-Naples"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -164,7 +164,7 @@ const Footer = () => {
             <h3 id="stateName" className="stateNameTexas">Texas</h3>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/Austin"
+              href="/Reverse-mortgage-Texas-Austin"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -175,7 +175,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/Dallas"
+              href="/Reverse-mortgage-Texas-Dallas"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -186,7 +186,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/Houston"
+              href="/Reverse-mortgage-Texas-Houston"
               sx={{
                 color: "black",
                 textTransform: "none",
@@ -290,7 +290,7 @@ const Footer = () => {
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
-              href="/Team"
+              href="/aboutus"
               target="_blank"
               sx={{
                 color: "black",
@@ -298,7 +298,7 @@ const Footer = () => {
                 textDecoration: "none",
               }}
             >
-              Team
+              About Us
             </Link>
             <Link
               id="reverse-mortgage-florida-footer"
