@@ -131,16 +131,17 @@ function Syracuse() {
             title="reverse mortgage utah"
             id="reverse-mortgage-utah-home-parallax-h1"
           >
-            Empowering Your Homeownership Journey with Kenny Farshchian: Utah Mortgage Expert in Brigham City
+            Empowering Your Homeownership Journey with Kenny Farshchian: Utah
+            Mortgage Expert in Syracuse
           </h2>
           <p>
             When purchasing your first home, it is crucial to determine the
             suitable mortgage loan for your situation. At Primary Residential
-            Mortgage Inc. in Brigham City, we understand the significance of
-            this decision, and that's why we have Kenny Farshchian, an
-            experienced expert, ready to assist you every step of the way. Trust
-            is paramount in such a major purchase, and we ensure to earn yours
-            by asking the right questions and identifying the loan program that
+            Mortgage Inc. in Syracuse, we understand the significance of this
+            decision, and that's why we have Kenny Farshchian, an experienced
+            expert, ready to assist you every step of the way. Trust is
+            paramount in such a major purchase, and we ensure to earn yours by
+            asking the right questions and identifying the loan program that
             best aligns with your needs. With Kenny's guidance, you can navigate
             the entire process with confidence, knowing you are making the right
             decision.
@@ -148,17 +149,16 @@ function Syracuse() {
           <br></br>
           <p>
             At Primary Residential Mortgage Inc., we take immense pride in
-            offering a diverse range of mortgage loans that Brigham City
-            residents can rely on, regardless of their budget or situation.
-            Whether you are a first-time homebuyer or seeking to refinance, we
-            possess the expertise to find the ideal loan that suits your
-            requirements. Having an intimate understanding of the Brigham City
-            housing market, we can secure the best mortgage rate possible for
-            you.
+            offering a diverse range of mortgage loans that Syracuse residents
+            can rely on, regardless of their budget or situation. Whether you
+            are a first-time homebuyer or seeking to refinance, we possess the
+            expertise to find the ideal loan that suits your requirements.
+            Having an intimate understanding of the Syracuse housing market, we
+            can secure the best mortgage rate possible for you.
           </p>
           <br></br>
           <p>
-            When searching for the perfect mortgage loans for Brigham City
+            When searching for the perfect mortgage loans for Syracuse
             homeowners, Kenny Farshchian is the trusted name you can rely on. As
             a highly certified mortgage broker with over a decade of experience,
             Kenny is equipped to guide you through the available loan options
@@ -176,17 +176,17 @@ function Syracuse() {
 
         <div id="reverse-mortgage-texas-home-h2">
           <h2>
-            The Preferred Utah Loan Officer Bountiful Clients Trust for Optimal
-            Rates
+            Unlocking Your Homeownership Potential with Kenny Farshchian: Utah
+            Mortgage Company in Syracuse
           </h2>
         </div>
         <div id="reverse-mortgage-texas-home-p">
           <p>
-            If you're contemplating buying a home in Bountiful, or anywhere in
-            Utah, Kenny Farshchian at Primary Residential Mortgage Inc. is the
-            professional you'll want by your side. As a skilled mortgage broker,
-            Kenny and his team are experts at finding the ideal mortgage
-            products to suit their clients' individual needs.
+            Embracing the joys of homeownership in Syracuse becomes even more
+            attainable with the dedicated support of Primary Residential
+            Mortgage Inc. Our unwavering commitment lies in assisting customers
+            like you to discover the perfect mortgage solution for your unique
+            needs.
           </p>
         </div>
         <Stack
@@ -207,35 +207,38 @@ function Syracuse() {
           </div>
           <div>
             <p id="reverse-mortgage-texas-home-stack-p">
-              With a keen understanding of your unique financial situation,
-              Kenny ensures he identifies the mortgage product that best aligns
-              with your requirements. If you're a veteran, Kenny stands as the
-              go-to Bountiful UT VA home loan expert, well-versed in helping you
-              take advantage of your entitled benefits. His unwavering
-              dedication has enabled numerous veterans and their families to
-              achieve their homeownership dreams, making sure their offers stand
-              strong.
+              With Kenny Farshchian and our team of experienced mortgage
+              lenders, rest assured that we will work tirelessly to secure the
+              ideal loan tailored precisely to your situation. Whether you're
+              purchasing a new home or refinancing an existing one, we are
+              renowned as one of the most trusted and experienced mortgage
+              companies Syracuse residents can rely on to obtain the funding
+              they require.
             </p>
           </div>
         </Stack>
         <div id="reverse-mortgage-texas-home-p">
           <p>
-            Whatever your mortgage needs entail, Kenny and his diligent team are
-            your most reliable source for securing the right financing tailored
-            to your situation. At PRMI, we wholeheartedly commit ourselves to
-            assisting you in realizing the dream of sustainable homeownership.
-            Collaborating with builders, realtors, and other mortgage companies,
-            we ensure you have the best possible opportunity for success.
+            Our extensive range of mortgage options includes Conventional, FHA,
+            VA, USDA, and investment loans, catering to diverse needs. Having
+            successfully handled thousands of mortgages as a revered mortgage
+            broker Syracuse residents entrust, we stand ready to put our
+            expertise to work for you!
           </p>
         </div>
         <div id="reverse-mortgage-texas-home-p">
           <p>
-            As the seasoned mortgage broker Bountiful clients trust for an
-            effortless process, we go the extra mile by providing remote
-            mortgage services, allowing you to obtain the financing you need
-            without physical presence. Contact us today to swiftly approve your
-            exclusive Bountiful UT VA home loan, as we tirelessly work to secure
-            optimal rates and deliver exceptional service.
+            Kenny Farshchian's proficiency as a reliable mortgage broker in Box
+            Elder County makes him the go-to expert for seamless and stress-free
+            processes, whether in person or virtually. As a top company in
+            mortgage refinancing, our courteous and professional agents,
+            including Kenny, will ensure the journey is simple and
+            straightforward, allowing you to focus on what truly matters - your
+            new home. When you reach out to PRMI, one of the leading mortgage
+            companies Syracuse is proud to call home, you'll discover the home
+            loan options you qualify for. Our dedicated team is here to help you
+            turn your cherished dream of homeownership into a remarkable
+            reality!
           </p>
         </div>
       </Container>
@@ -243,18 +246,17 @@ function Syracuse() {
         <Container maxWidth="md">
           {/* fourth section */}
           <h2 id="reverse-mortgage-texas-salt-lake-city-h2">
-            A Seamless Homebuying Journey<br></br>in Bountiful: Your Premier
-            Choice Utah Loan Officer
+          Realize Your Dream Home<br></br>with Kenny Farshchian: Utah Mortgage Expert in Syracuse
           </h2>
           <p id="salt-lake-city-p">
-            Introducing Kenny Farshchian, the ultimate go-to Utah loan officer,
-            devoted to providing a seamless and hassle-free mortgage experience.
-            With Kenny's exceptional expertise and unwavering dedication, the
-            loan process transforms into a smooth path, turning numerous
-            homeownership dreams into reality for families in Bountiful and
-            beyond. His genuine passion for assisting individuals and families
-            secure the financing they need to acquire their dream homes shines
-            through in every aspect of the journey.
+            Allow us to introduce Kenny Farshchian, the ultimate go-to loan
+            officer in Utah, devoted to providing a seamless and hassle-free
+            mortgage experience. With Kenny's exceptional expertise and
+            unwavering dedication, the loan process transforms into a smooth
+            path, turning numerous homeownership dreams into reality for
+            families in Bountiful and beyond. His genuine passion for assisting
+            individuals and families secure the financing they need to acquire
+            their dream homes shines through in every aspect of the journey.
           </p>
           <br></br>
           <p id="salt-lake-city-p">

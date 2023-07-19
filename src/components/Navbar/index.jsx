@@ -145,7 +145,7 @@ const Header = () => {
                       ></PageLink>
                       <PageLink
                         page={"West Valley City"}
-                        pageLink={`/wReverse-mortgage-Utah-WestValleyCity`}
+                        pageLink={`/Reverse-mortgage-Utah-WestValleyCity`}
                       ></PageLink>
                       
                     </span>
@@ -176,8 +176,8 @@ const Header = () => {
                   >
                     <span className="mortgage-company-utah-team">
                       <PageLink page={"Austin"} pageLink={`/Reverse-mortgage-Texas-Austin`} />
-                      <PageLink page={"Houston"} pageLink={`/Reverse-mortgage-Texas-Dallas`} />
-                      <PageLink page={"Dallas"} pageLink={`/Reverse-mortgage-Texas-Houston`} />
+                      <PageLink page={"Houston"} pageLink={`/Reverse-mortgage-Texas-Houston`} /> 
+                      <PageLink page={"Dallas"} pageLink={`/Reverse-mortgage-Texas-Dallas`} />
                     </span>
                   </NestedMenuItem>
                 </span>
