@@ -14,6 +14,7 @@ import imgBlog from "../logos/blog-reverse-mortgage-utah.jpg";
 import whereToGet from "../logos/where-to-get.jpg"
 import whereToApply from "../logos/where-to-apply.jpg"
 import whatAfford from "../logos/what-mortgage-afford.jpg"
+import Loader from "react-loaders";
 
 function Austin() {
   useEffect(() => {
@@ -143,6 +144,7 @@ function Austin() {
           </Card>
         </Stack>
       </Container>
+      <Loader type="ball-rotate" />
     </>
   );
 }

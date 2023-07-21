@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { ParallaxBanner } from "react-scroll-parallax";
 import whereToGet from "../logos/where-to-get.jpg";
 import { Container, Button } from "@mui/material";
+import Loader from "react-loaders";
 
 function GetMortgage() {
   useEffect(() => {
@@ -90,6 +91,7 @@ function GetMortgage() {
                   Go Back
                 </Button>
       </Container>
+      <Loader type="ball-rotate" />
     </>
   );
 }

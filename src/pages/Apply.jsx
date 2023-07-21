@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { ParallaxBanner } from "react-scroll-parallax";
 import whereToApply from "../logos/where-to-apply.jpg";
 import { Container, Button } from "@mui/material";
+import Loader from "react-loaders";
 
 function Apply() {
   useEffect(() => {
@@ -97,6 +98,7 @@ function Apply() {
           Go Back
         </Button>
       </Container>
+      <Loader type="ball-rotate" />
     </>
   );
 }

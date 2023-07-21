@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { ParallaxBanner } from "react-scroll-parallax";
 import whatAfford from "../logos/what-mortgage-afford.jpg";
 import { Container, Button } from "@mui/material";
+import Loader from "react-loaders";
 
 function Afford() {
   useEffect(() => {
@@ -107,6 +108,7 @@ function Afford() {
           Go Back
         </Button>
       </Container>
+      <Loader type="ball-rotate" />
     </>
   );
 }
