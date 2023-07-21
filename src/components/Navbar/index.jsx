@@ -99,6 +99,11 @@ const Header = () => {
                   <PageLink class="" page={"Closing Guarantee"} pageLink={"/closing-guarantee"} />
                 </span>
               </MenuItem>
+              <MenuItem onClick={aboutushandleClose}>
+                <span className="mortgage-company-utah-team">
+                  <PageLink class="" page={"Blog"} pageLink={"/blog"} />
+                </span>
+              </MenuItem>
             </Menu>
             <NavLink
               sx={{

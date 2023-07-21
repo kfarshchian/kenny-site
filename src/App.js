@@ -21,7 +21,11 @@ import Houston from "./pages/Houston";
 import OurProcess from "./pages/OurProcess";
 import Disclosure from "./pages/Disclosure.jsx";
 import ClosingGuarantee from "./pages/ClosingGuarantee.jsx";
+import Afford from "./pages/Afford";
+import Apply from "./pages/Apply";
+import GetMortgage from "./pages/GetMortgage"
 import { ParallaxProvider } from 'react-scroll-parallax';
+import Blog from './pages/Blog';
 import './theme.scss'
 
 function App() {
@@ -51,6 +55,10 @@ function App() {
             <Route path="/our-process" element={<OurProcess />} />
             <Route path="/Disclosure" element={<Disclosure />} />
             <Route path="/closing-guarantee" element={<ClosingGuarantee />} />
+            <Route path="/blog" element={<Blog />} />
+            <Route path="/where-to-apply-for-a-mortgage" element={<Apply />} />
+            <Route path="/where-to-get-a-mortgage" element={<GetMortgage />} />
+            <Route path="/how-much-mortgage-can-I-afford" element={<Afford />} />
           </Routes>
           </ParallaxProvider>
         </div>

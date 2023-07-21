@@ -79,6 +79,7 @@ function AppNav({handleClose, pages, pageLinks, children}) {
         <AppNavItem handleClose={handleClose} page={'Our Process'} pageLink={'/our-process'}/>
         <AppNavItem handleClose={handleClose} page={'Closing Guarantee'} pageLink={'/closing-guarantee'}/>
         <AppNavItem handleClose={handleClose} page={'Disclosure and Information'} pageLink={'/Disclosure'}/>
+        <AppNavItem handleClose={handleClose} page={'Blog'} pageLink={'/blog'}/>
         
         <div id="buttonDiv">
       <Button
