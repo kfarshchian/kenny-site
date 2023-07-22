@@ -38,7 +38,7 @@ function Ogden() {
       <Container maxWidth="md">
         {/* first section */}
         <p id="reverse-mortgage-texas-contact-us-Container-p">
-          Introducing Kenny Farshchian, your trusted home loan expert in Ogden,
+         Introducing Kenny Farshchian, your trusted home loan expert in Ogden,
           Utah! With a wealth of experience, Kenny has assisted numerous
           homebuyers in finding the ideal home loan tailored to their specific
           needs and budget. He is dedicated to guiding you through the entire
@@ -78,7 +78,7 @@ function Ogden() {
               spacing={{ xs: 1, sm: 1, md: 6 }}
             >
               <p id="salt-lake-city-p">
-                Meet Kenny Farshchian, your reliable partner in securing the
+              <a href="/aboutus" type="page" id="pageLinksOnPage">Meet Kenny Farshchian</a>, your reliable partner in securing the
                 perfect mortgage loan for your homebuying journey – a decision
                 that holds immense financial significance!
               </p>
@@ -97,7 +97,7 @@ function Ogden() {
                 service, ensuring that you receive the most attractive home loan
                 offers in the area. Our mission is straightforward: to offer
                 top-notch guidance and service, addressing our customers'
-                financial needs with care. As a trusted mortgage broker highly
+                financial needs with care. As a <a href="/Reverse-mortgage-Florida-Venice" type="page" id="pageLinksOnPage"> trusted mortgage loan officer</a> highly
                 regarded by Ogden residents, we take pride in delivering a
                 transparent and smooth process for buyers, sellers, and real
                 estate agents alike.
@@ -130,7 +130,7 @@ function Ogden() {
             delivering swift and efficient results, look no further than Primary
             Residential Mortgage, Inc. With over a decade of experience, we have
             successfully assisted numerous individuals in realizing their dream
-            of homeownership. Obtaining pre-approval for the mortgage loan you
+            of homeownership. Obtaining pre-approval for the <a href="/Reverse-mortgage-Texas-Austin" type="page" id="pageLinksOnPage"> mortgage loan</a> you
             deserve is as simple as engaging in a brief conversation with us –
             why settle for anything less than the best? Collaborate with the
             premier mortgage broker in Ogden, where our greatest pleasure lies
@@ -176,7 +176,7 @@ function Ogden() {
             With over a decade of experience as a mortgage loan officer, Kenny
             believes that clear and consistent communication is the key to a
             rewarding mortgage loan experience. You can count on Kenny and the
-            PRMI team to keep you informed at every stage of the process,
+            <a href="/" type="page" id="pageLinksOnPage"> PRMI</a> team to keep you informed at every stage of the process,
             ensuring you always know where you stand, what the next steps are,
             and when to expect progress.
           </p>
@@ -227,7 +227,7 @@ function Ogden() {
           <p>
             Your home financing decision is one of the most significant
             commitments you'll ever make, and our goal is to ensure you make the
-            right choices for your financial future. Visit our office today to
+            right choices for your financial future. <a href="/contact" type="page" id="pageLinksOnPage"> Visit our office today</a> to
             experience an uncomplicated, smooth, and refreshing mortgage process
             with Kenny Farshchian and Primary Residential Mortgage, Inc.
           </p>
@@ -244,11 +244,11 @@ function Ogden() {
             fluctuating mortgage rates. While it was once prudent to secure a
             home with a low long-term interest rate, the current rise in
             interest rates has prompted many to consider mortgage refinancing as
-            a means to save money.When contemplating a mortgage refinance,
+            a means to save money. When contemplating a mortgage refinance,
             several critical factors demand consideration, with the expertise of
             an experienced broker being of utmost importance. Kenny Farshchian
             and the team at Primary Residential Mortgage are well-versed in the
-            intricacies of the mortgage refinance process Ogden clients seek,
+            intricacies of the <a href="/Utah-Mortgage-Syracuse" type="page" id="pageLinksOnPage"> mortgage Utah</a> refinance process Ogden clients seek,
             and we have a proven track record of securing competitive rates for
             our valued clients.
           </p>

@@ -80,7 +80,7 @@ function WestValleyCity() {
             >
               <p id="salt-lake-city-p">
                 At Primary Residential Mortgage Inc., we have been serving as
-                one of the top mortgage companies West Valley City could ask
+                one of the top <a href="/aboutus" type="page" id="pageLinksOnPage"> mortgage companies West Valley City</a> could ask
                 for. We understand how important a home investment is to you and
                 the impact it will have on your life, which is why our team of
                 experienced mortgage professionals led by Kenny Farshchian will
@@ -110,7 +110,7 @@ function WestValleyCity() {
           ourselves on being the dedicated mortgage lenders West Valley City
           clients can trust to get the loan they need in a timely manner. Give
           us a call today if you're ready to get started, and Kenny Farshchian
-          will be happy to help you find the right mortgage for your needs.
+          will be happy to <a href="/contact" type="page" id="pageLinksOnPage"> help you</a> find the right mortgage for your needs.
         </p>
       </Container>
       {/* second section */}
@@ -127,7 +127,7 @@ function WestValleyCity() {
             Farshchian
           </h2>
           <p>
-            The Most Hassle-Free Mortgage Lending West Valley City Residents Can
+            The Most Hassle-Free <a href="/Reverse-mortgage-Florida-Palm-Beach" type="page" id="pageLinksOnPage"> Mortgage Lending West Valley City</a> Residents Can
             Find At Primary Residential Mortgage, we handle everything
             mortgage-related, so that you can focus on the more important things
             in life. The mortgage process can be daunting, but with a company
@@ -155,7 +155,7 @@ function WestValleyCity() {
             so we can move the process along quickly. From there, we will
             provide your loan options and a pre-approval letter so that you can
             get shopping with your real estate agent to find the home that’s
-            right for you. Contact us today and come benefit from a stress-free
+            right for you. <a href="/contact" type="page" id="pageLinksOnPage"> Contact us today</a> and come benefit from a stress-free
             experience in mortgage lending West Valley City residents boast
             about!
           </p>
@@ -175,7 +175,7 @@ function WestValleyCity() {
             Kenny Farshchian at Primary Residential Mortgage Inc. because Kenny
             and his team are dedicated to making the mortgage lending process as
             hassle-free as possible for our beloved community’s residents. We’re
-            a top Utah loan officer West Valley City clients recommend, and we
+            a top <a href="/Reverse-mortgage-Texas-Houston" type="page" id="pageLinksOnPage"> Utah loan officer West Valley City</a> clients recommend, and we
             know how to get many different types of loans for potential
             homeowners.
           </p>
@@ -219,7 +219,7 @@ function WestValleyCity() {
         </div>
         <div id="reverse-mortgage-texas-home-p">
           <p>
-            Utah loan officer West Valley City Don't hesitate to contact us
+          <a href="/" type="page" id="pageLinksOnPage"> Utah loan officer West Valley</a> City Don't hesitate to contact us
             today and discover why we’re the go-to loan officer West Valley City
             clients partner with again and again. We're confident that we can
             provide the best service possible and show you how simple and easy
@@ -251,8 +251,8 @@ function WestValleyCity() {
           <br></br>
           <p id="salt-lake-city-p">
             If you're a potential homeowner in west Valley City, you've probably
-            heard of Kenny Farshchian - one of the top loan officers Salt
-            Lake City has to offer. He's a well-respected mortgage lender who is
+            heard of Kenny Farshchian - one of the top <a href="/Reverse-mortgage-Florida-Palm-Beach" type="page" id="pageLinksOnPage"> loan officers Salt
+            Lake City</a> has to offer. He's a well-respected mortgage lender who is
             passionate about helping people in the communities we serve with
             funding their dream home purchase. He also specializes in offering a
             special kind of refinance mortgage west Valley City homeowners can

@@ -79,8 +79,8 @@ function Austin() {
               spacing={{ xs: 1, sm: 1, md: 6 }}
             >
               <p id="salt-lake-city-p">
-                With years of experience in the mortgage industry, Kenny
-                Farshchian and his team know how to find the right loan for you
+                With years of experience in the mortgage industry, <a href="/aboutus" type="page" id="pageLinksOnPage"> Kenny
+                Farshchian and his team</a> know how to find the right loan for you
                 and make sure the process goes smoothly.
               </p>
               <p id="salt-lake-city-p">
@@ -109,7 +109,7 @@ function Austin() {
           broker, and for good reason, because he's knowledgeable, experienced,
           and always puts his clients' best interests first. He'll also guide
           you through the entire process, from start to finish, so you can be
-          confident that you're getting the best possible deal. Contact us today
+          confident that you're getting the best possible deal. <a href="/contact" type="page" id="pageLinksOnPage"> Contact us today</a>
           to discover why our company is the most ideal provider for a
           first-time buyer home loan Austin, TX residents boast about!
         </p>
@@ -129,7 +129,7 @@ function Austin() {
           </h2>
           <p>
             Introducing Kenny Farshchian and his experienced team at Primary
-            Residential Mortgage Inc., your go-to mortgage lenders in Austin,
+            Residential Mortgage Inc., your go-to <a href="/Utah-mortgage-Bountiful" type="page" id="pageLinksOnPage"> mortgage lenders in Austin</a>,
             TX! Your home is likely your biggest investment, and we understand
             the importance of securing the best mortgage terms for your
             financing or refinancing needs. Kenny and his team are dedicated to
@@ -157,7 +157,7 @@ function Austin() {
             first-time buyer home loan, Austin, TX residents recommend Kenny
             Farshchian and his team. We have a high approval success rate and
             are committed to helping you achieve your homeownership dreams.
-            Contact us today to learn more about our services. We're excited to
+            <a href="/contact" type="page" id="pageLinksOnPage"> Contact us today</a> to learn more about our services. We're excited to
             work with you!
           </p>
         </div>
@@ -216,7 +216,7 @@ function Austin() {
             With access to a diverse group of lenders, Kenny and his team can
             secure the best possible interest rates and terms that align with
             your specific situation. We pride ourselves on being a full-service
-            mortgage loan officer team recommended by homeowners in Austin, TX,
+            <a href="/Utah-mortgage-Layton" type="page" id="pageLinksOnPage"> mortgage loan officer</a> team recommended by homeowners in Austin, TX,
             making the process easy and straightforward for you.
           </p>
         </div>
@@ -252,7 +252,7 @@ function Austin() {
           </p>
           <br></br>
           <p id="salt-lake-city-p">
-            As one of the finest mortgage loan officers in Austin, Kenny
+            As one of the finest mortgage <a href="/Utah-mortgage-Bountiful" type="page" id="pageLinksOnPage"> loan officers in Austin</a>, Kenny
             Farshchian is a well-known name among potential homeowners. His
             unwavering passion lies in helping individuals in the communities he
             serves achieve their dream of homeownership. For Austin homeowners,

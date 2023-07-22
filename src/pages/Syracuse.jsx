@@ -76,7 +76,7 @@ function Syracuse() {
               spacing={{ xs: 1, sm: 1, md: 6 }}
             >
               <p id="salt-lake-city-p">
-                At Primary Residential Mortgage in Syracuse, we deeply recognize
+                At <a href="/aboutus" type="page" id="pageLinksOnPage"> Primary Residential Mortgage</a> in Syracuse, we deeply recognize
                 the paramount importance of finding the optimal mortgage
                 solution that aligns precisely with your individual needs. To
                 facilitate this critical endeavor, we proudly offer the
@@ -94,7 +94,7 @@ function Syracuse() {
               </p>
               <p id="salt-lake-city-p">
                 Whether you are a first-time homebuyer or are seeking mortgage
-                refinancing in Box Elder County, Utah, Kenny stands prepared to
+                refinancing in Box Elder County, <a href="/Utah-mortgage-salt-lake-city" type="page" id="pageLinksOnPage"> Utah</a>, Kenny stands prepared to
                 guide you efficiently through the process. Leveraging his access
                 to a diverse array of first-time homebuyer loans and some of the
                 most favorable mortgage rates in town, Kenny will diligently
@@ -110,7 +110,7 @@ function Syracuse() {
           financial matters allows him to forge a financial solution that not
           only saves you money but also aligns seamlessly with your long-term
           financial goals. For an accelerated and enhanced first-time homebuyer
-          experience, we encourage you to reach out to Kenny Farshchian at
+          experience, we encourage you to <a href="/contact" type="page" id="pageLinksOnPage"> reach out to Kenny Farshchian</a> at
           Primary Residential Mortgage Inc. without delay. Armed with a wealth
           of experience and insight in the mortgage industry, Kenny possesses
           the profound acumen required to secure the most advantageous loan
@@ -163,7 +163,7 @@ function Syracuse() {
             a highly certified mortgage broker with over a decade of experience,
             Kenny is equipped to guide you through the available loan options
             tailored to your new home aspirations. Our reputation as a
-            well-known and respected mortgage lender in the area reflects our
+            well-known and respected <a href="/Reverse-mortgage-Utah-Ogden" type="page" id="pageLinksOnPage"> mortgage lender</a> in the area reflects our
             commitment to providing personalized service and flexible rates to
             each valued customer. Take the first step towards making your
             homeownership dreams come true by contacting us today; we are eager
@@ -207,8 +207,8 @@ function Syracuse() {
           </div>
           <div>
             <p id="reverse-mortgage-texas-home-stack-p">
-              With Kenny Farshchian and our team of experienced mortgage
-              lenders, rest assured that we will work tirelessly to secure the
+              With Kenny Farshchian and our team of <a href="/Utah-mortgage-salt-lake-city" type="page" id="pageLinksOnPage"> experienced mortgage
+              lenders</a>, rest assured that we will work tirelessly to secure the
               ideal loan tailored precisely to your situation. Whether you're
               purchasing a new home or refinancing an existing one, we are
               renowned as one of the most trusted and experienced mortgage
@@ -236,7 +236,7 @@ function Syracuse() {
             straightforward, allowing you to focus on what truly matters - your
             new home. When you reach out to PRMI, one of the leading mortgage
             companies Syracuse is proud to call home, you'll discover the home
-            loan options you qualify for. Our dedicated team is here to help you
+            loan options you qualify for. Our dedicated team is here to <a href="/contact" type="page" id="pageLinksOnPage"> help you</a>
             turn your cherished dream of homeownership into a remarkable
             reality!
           </p>
@@ -266,7 +266,7 @@ function Syracuse() {
             considering refinancing, Kenny and his proficient team will expertly
             guide you with personalized solutions and insightful advice. Our
             commitment to customer satisfaction is reflected in the numerous
-            glowing reviews on our home page, a testament to the positive
+            glowing reviews on our <a href="/" type="page" id="pageLinksOnPage"> home page</a>, a testament to the positive
             experiences of our past clients.
           </p>
           <br></br>

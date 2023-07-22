@@ -87,7 +87,7 @@ function Layton() {
                 homeowners, streamlining the loaning process to an average of
                 23-25 days from start to finish. This way, you can spend less
                 time worrying about your mortgage and more time enjoying your
-                new home. At PRMI, we wholeheartedly support you in achieving
+                new home. At <a href="/aboutus" type="page" id="pageLinksOnPage"> PRMI</a>, we wholeheartedly support you in achieving
                 your homeownership goals.
               </p>
               <p id="salt-lake-city-p">
@@ -147,7 +147,7 @@ function Layton() {
           </p>
           <br></br>
           <p>
-            We take pride in being the experienced mortgage company that Layton
+            We take pride in being the experienced <a href="/Utah-mortgage-Bountiful" type="page" id="pageLinksOnPage"> mortgage company that Layton</a>
             clients consistently choose to work with because we possess in-depth
             insights into the local mortgage industry. Rest assured, we will
             secure the best possible deal for your loan. Moreover, Kenny
@@ -168,7 +168,7 @@ function Layton() {
         </div>
         <div id="reverse-mortgage-texas-home-p">
           <p>
-            When seeking a mortgage company in Layton City, look no further
+            When seeking a <a href="/" type="page" id="pageLinksOnPage"> mortgage company in Layton</a> City, look no further
             than Primary Residential Mortgage, Inc. With years of expertise in
             the real estate market, Kenny Farshchian and his team offer the most
             competitive mortgage interest rates available, collaborating with
@@ -204,7 +204,7 @@ function Layton() {
             As a premier mortgage company in Layton, we are dedicated to
             helping you attain the financing needed for your dream home. We
             understand the stress associated with this process, and we commit
-            ourselves to support you in every way possible. Our array of
+            ourselves to <a href="/contact" type="page" id="pageLinksOnPage"> support you</a> in every way possible. Our array of
             mortgage products and programs cater to your refinancing
             requirements, ensuring access to the lowest interest rates.
           </p>
@@ -253,7 +253,7 @@ function Layton() {
           <br></br>
           <p id="salt-lake-city-p">
             Don't let this opportunity pass you by; work with Kenny Farshchian,
-            the Utah loan officer who prioritizes your needs and ensures a
+            the <a href="/Utah-Mortgage-Syracuse" type="page" id="pageLinksOnPage"> Utah loan officer</a> who prioritizes your needs and ensures a
             stress-free path to homeownership. To embark on your journey towards
             your dream home, contact Kenny's office today and experience the
             top-notch service that sets him apart in the lending industry.

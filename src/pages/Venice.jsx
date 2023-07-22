@@ -92,7 +92,7 @@ function Venice() {
               </p>
               <p id="salt-lake-city-p">
                 Venice, Florida residents can rely on Kenny Farshchian at
-                Primary Residential Mortgage for an array of mortgage options.
+                <a href="/aboutus" type="page" id="pageLinksOnPage"> Primary Residential Mortgage</a> for an array of mortgage options.
                 With a commitment to delivering the optimum rate and product,
                 Kenny Farshchian will work diligently to earn your trust and
                 business.
@@ -139,7 +139,7 @@ function Venice() {
           </p>
           <br></br>
           <p>
-            If you seek a reliable loan officer in Venice, Florida, Kenny
+            If you seek a reliable <a href="/Reverse-mortgage-Florida-Naples" type="page" id="pageLinksOnPage"> loan officer in Venice</a>, Florida, Kenny
             Farshchian is the expert you need. With a wealth of experience and
             unparalleled knowledge of the local market, Kenny is always eager to
             share his insights with clients. His exceptional communication
@@ -151,7 +151,7 @@ function Venice() {
           <br></br>
           <p>
             Reach out to Kenny Farshchian and our team of professional Venice
-            loan officer today, and let us show you how we can help you achieve
+            loan officer today, and let us show you how we can <a href="/contact" type="page" id="pageLinksOnPage"> help you</a> achieve
             the home of your dreams!"
           </p>
         </div>
@@ -195,8 +195,8 @@ function Venice() {
           </div>
           <div>
             <p id="reverse-mortgage-texas-home-stack-p">
-              Kenny Farshchian and his team of customer-oriented Venice Florida
-              mortgage loan officers are dedicated to assisting clients in
+              Kenny Farshchian and his team of customer-oriented Venice <a href="/Reverse-mortgage-Texas-Dallas" type="page" id="pageLinksOnPage"> Florida
+              mortgage loan officers</a> are dedicated to assisting clients in
               finding the ideal home loan. At Primary Residential Mortgage Inc.,
               we'll help you get pre-qualified for a loan, giving you a clear
               understanding of how much you can afford for your new home.
@@ -218,7 +218,7 @@ function Venice() {
             most reputable in the business. With their extensive experience in
             mortgage lending in Florida, you can trust that you're in capable
             hands with us. If you're seeking a loan officers in Venice, Florida,
-            that prioritizes your needs, reach out to Kenny Farshchian today!
+            that prioritizes your needs, <a href="/contact" type="page" id="pageLinksOnPage">reach out to Kenny Farshchian today!</a>
           </p>
         </div>
       </Container>
@@ -244,8 +244,8 @@ function Venice() {
           <br></br>
           <p id="salt-lake-city-p">
             For potential homeowners in Venice, Kenny Farshchian is a
-            name that undoubtedly rings a bell - one of the finest loan officers
-             Salt Lake City has to offer. He is deeply passionate about
+            name that undoubtedly rings a bell - one of the finest <a href="/Reverse-mortgage-Texas-Dallas" type="page" id="pageLinksOnPage"> loan officers
+             Salt Lake City</a> has to offer. He is deeply passionate about
             assisting individuals in the communities he serves to achieve their
             dream of homeownership. Notably, he specializes in providing a
             distinct kind of refinance mortgage that Venice homeowners
