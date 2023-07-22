@@ -361,7 +361,7 @@ align-items: center;
     
  }
 #reverse-mortgage-utah-home-parallax-mid{
-    height: 670px;
+    height: 700px;
 
 }
   #reverse-mortgage-utah-home-parallax-title{
@@ -385,11 +385,7 @@ align-items: center;
     text-align: center;
 }
 #reverse-mortgage-utah-home-parallax-p{
-    display:flex;
     flex-direction:column;
-    // width: auto;
-    // height: auto;
-    // justify-content:space-between;
     justify-content: center;
     align-items: center;
     font-size: 15px !important;
@@ -698,6 +694,17 @@ padding: 20px;
     color: black !important;
     padding: 10px;
 }
+#pageLinksOnPage{
+padding: 0;
+// display: inherit;
+color: #ED8B00;
+margin: 0;
+// float: right !important;
+}
+#pageLinksOnPage:hover{
+    padding: 0;
+    color: white;
+    }
 /* Media Query for small screens on home screen */
 @media (max-width: 768px) {
     .reverse-mortgage-utah-home-Container-stack-img1  {

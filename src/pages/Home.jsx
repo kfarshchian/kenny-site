@@ -322,7 +322,7 @@ aria-labelledby="modal-modal-title"
             Reverse Mortgage Loan Officer
           </h2>
           <p>
-            As the esteemed loan officer, Kenny Farshchian, you can rest assured
+            As the esteemed loan officer, <a href="/aboutus" type="page" id="pageLinksOnPage">Kenny Farshchian</a>, you can rest assured
             that you are working with the best in Utah. With his extensive
             knowledge and expertise in the lending industry, Kenny is dedicated
             to providing you with exceptional service and guidance throughout
@@ -340,8 +340,8 @@ aria-labelledby="modal-modal-title"
             to professionalism, attention to detail, and client satisfaction,
             Kenny strives to build lasting relationships based on trust and
             transparency. You can trust that Kenny Farshchian, as your dedicated
-            reverse mortgage loan officer, will provide you with personalized
-            guidance and the highest level of service throughout the loan
+            reverse mortgage loan officer, will provide you with <a href="/contact" type="page" id="pageLinksOnPage">personalized
+            guidance</a> and the highest level of service throughout the loan
             process.
           </p>
         </div>
@@ -374,8 +374,8 @@ aria-labelledby="modal-modal-title"
               above and beyond to ensure his clients receive nothing but the
               best. Specializing in reverse mortgages, Kenny understands the
               unique financial needs and goals of his clients in Utah and
-              beyond. His extensive knowledge and expertise as a Utah mortgage
-              lender allow him to provide tailored solutions that meet the
+              beyond. His extensive knowledge and expertise as a <a href="/Utah-mortgage-salt-lake-city" type="page" id="pageLinksOnPage">Utah mortgage
+              lender</a> allow him to provide tailored solutions that meet the
               specific requirements of each client.
             </p>
             <br></br>
@@ -384,7 +384,7 @@ aria-labelledby="modal-modal-title"
               Kenny's commitment to excellence remains unwavering. He believes
               in building strong relationships with his clients, guided by trust
               and open communication. Kenny's dedication to creating an
-              exceptional mortgage experience is evident in his attention to
+              <a href="/Reverse-mortgage-Florida-Venice" type="page" id="pageLinksOnPage">exceptional mortgage experience</a> is evident in his attention to
               detail, personalized guidance, and proactive approach. He ensures
               that his clients are well-informed and supported throughout the
               entire process, offering a smooth and hassle-free experience.
@@ -395,9 +395,9 @@ aria-labelledby="modal-modal-title"
               As a reverse mortgage loan officer, he recognizes the significance
               of financial decisions and their impact on his clients' lives.
               With his expertise in the reverse mortgage markets of Utah, Texas,
-              and Florida, Kenny provides comprehensive guidance that considers
+              and Florida, Kenny provides <a href="/contact" type="page" id="pageLinksOnPage">comprehensive guidance</a> that considers building
               the unique regulations and trends of each state. By focusing on
-              building long-lasting relationships and delivering unmatched
+               long-lasting relationships and delivering unmatched
               service, Kenny Farshchian guarantees an exceptional mortgage
               experience that surpasses expectations.
             </p>
@@ -427,7 +427,7 @@ aria-labelledby="modal-modal-title"
             personalized approach to mortgage lending. We differentiate
             ourselves by going the extra mile to work on your behalf, diligently
             finding the best mortgage solution tailored to your specific
-            circumstances. As a nationwide lender, we have implemented robust
+            circumstances. As a  <a href="/Reverse-mortgage-Texas-Austin" type="page" id="pageLinksOnPage">nationwide lender</a>, we have implemented robust
             layers of security and advanced technology, enabling our team to
             seamlessly operate remotely. This ensures that regardless of your
             location, we can provide exceptional care and service.
@@ -437,7 +437,7 @@ aria-labelledby="modal-modal-title"
             Don't wait any longer to achieve your homeownership dreams or
             refinance your existing mortgage. Contact us today to experience the
             dedication, expertise, and convenience that sets us apart as your
-            trusted mortgage partner. Let us secure your dreams and make your
+            <a href="/Utah-mortgage-Layton" type="page" id="pageLinksOnPage"> trusted mortgage partner</a>. Let us secure your dreams and make your
             homeownership aspirations a reality with Kenny Farshchian leading
             the way.
           </p>
@@ -471,7 +471,7 @@ aria-labelledby="modal-modal-title"
           </p>
           <br></br>
           <p>
-            As a nationwide lender, we have tirelessly invested in implementing
+            As a  <a href="/Reverse-mortgage-Texas-Houston" type="page" id="pageLinksOnPage"> nationwide lender</a>, we have tirelessly invested in implementing
             multiple layers of security and cutting-edge technology. These
             advancements enable our team to operate remotely, effectively
             serving you without requiring a physical presence in the various
@@ -577,7 +577,7 @@ aria-labelledby="modal-modal-title"
           <p>
             When it comes to financing your home, whether you're a first-time
             buyer or a seasoned homeowner in Utah, it's crucial to work with a
-            trusted mortgage broker who will prioritize your education and
+            trusted <a href="/Reverse-mortgage-Florida-Palm-Beach" type="page" id="pageLinksOnPage"> mortgage broker</a> who will prioritize your education and
             consider all your loan options. That's where Kenny Farshchian at
             Primary Residential Mortgage, Inc. comes in. As a top-rate utah
             mortgage broker in Utah, Kenny takes pride in guiding clients
@@ -606,7 +606,7 @@ aria-labelledby="modal-modal-title"
           </div>
           <div>
             <p id="reverse-mortgage-texas-home-stack-p">
-              As a reliable utah mortgage broker in Utah, Kenny has access to a
+              As a reliable <a href="/Reverse-mortgage-Utah-Ogden" type="page" id="pageLinksOnPage"> utah mortgage</a> broker in Utah, Kenny has access to a
               diverse portfolio of loan products, including adjustable-rate
               mortgages (ARM), FHA, VA, HUD programs, USDA, conventional,
               reverse mortgage and investment property loans. Recognizing that
@@ -627,7 +627,7 @@ aria-labelledby="modal-modal-title"
             closing process if needed. With a decade of experience in the
             industry, they have fine-tuned their lending process, resulting in
             fast mortgage approvals, competitive interest rates, and exceptional
-            customer service. While their business spans nationwide, with a
+            customer service. While their business spans <a href="/Reverse-mortgage-Texas-Dallas" type="page" id="pageLinksOnPage"> nationwide</a>, with a
             focus on Utah, Florida, and Texas, Kenny's reputation speaks for
             itself. Get in touch with Kenny Farshchian today to embark on your
             homeownership journey and experience the outstanding service that
@@ -654,7 +654,7 @@ aria-labelledby="modal-modal-title"
             <p id="reverse-mortgage-texas-home-stack-p">
               Utah presents an exceptional opportunity for establishing your
               residence. The Kenny Farshchian Team recognizes the wide array of
-              mortgage lenders available in the state, underscoring the
+              <a href="/Reverse-mortgage-Florida-Naples" type="page" id="pageLinksOnPage"> mortgage lenders</a> available in the state, underscoring the
               importance of finding an ideal match for your specific
               requirements. Whether you are a first-time homebuyer in need of
               down payment assistance, planning your next move, or a seasoned
@@ -673,7 +673,7 @@ aria-labelledby="modal-modal-title"
         </Stack>
         <div id="reverse-mortgage-texas-home-p">
           <p>
-            Realize the full potential of a reverse mortgage in Utah by
+            Realize the full potential of a <a href="/Utah-mortgage-Bountiful" type="page" id="pageLinksOnPage"> reverse mortgage in Utah</a> by
             partnering with a trusted housing lender. For residents of the
             Beehive State seeking a reliable source, look no further than Kenny
             Farshchian at Primary Residential Mortgage Inc. As a direct endorsed
@@ -745,7 +745,7 @@ aria-labelledby="modal-modal-title"
             eligibility for VA loans, an exceptional choice for qualifying
             individuals. Take the initial step by submitting your application
             now or reaching out to one of our knowledgeable home buying experts
-            to initiate your VA housing loan in Utah today! Above all, we extend
+            to initiate your VA housing loan in <a href="/Utah-Mortgage-Syracuse" type="page" id="pageLinksOnPage"> Utah today</a>! Above all, we extend
             our sincere gratitude for your honorable service.
           </p>
         </div>
@@ -762,7 +762,7 @@ aria-labelledby="modal-modal-title"
         </div>
         <div id="reverse-mortgage-texas-home-p">
           <p>
-            When it comes to securing a Utah mortgage, finding the right loan
+            When it comes to securing a <a href="/Reverse-mortgage-Utah-WestValleyCity" type="page" id="pageLinksOnPage"> Utah mortgage</a>, finding the right loan
             officer or mortgage broker in Utah can make a world of difference.
             The process of obtaining a loan can be complex and overwhelming, but
             with the guidance of a skilled professional, you can navigate it
