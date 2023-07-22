@@ -413,7 +413,7 @@ aria-labelledby="modal-modal-title"
           </h2>
           <p>
             At Primary Residential Mortgage, Inc., we are dedicated direct
-            mortgage lenders in Utah, driven by our commitment to securing the
+            <a href="/Utah-mortgage-Layton" type="page" id="pageLinksOnPage"> mortgage lenders in Utah</a>, driven by our commitment to securing the
             best terms for your mortgage. Offering a comprehensive range of
             mortgage loan products, including Fannie Mae/Freddie Mac,
             Adjustable-Rate Mortgages (ARM), FHA loans, VA loans, HUD programs,
@@ -437,7 +437,7 @@ aria-labelledby="modal-modal-title"
             Don't wait any longer to achieve your homeownership dreams or
             refinance your existing mortgage. Contact us today to experience the
             dedication, expertise, and convenience that sets us apart as your
-            <a href="/Utah-mortgage-Layton" type="page" id="pageLinksOnPage"> trusted mortgage partner</a>. Let us secure your dreams and make your
+             trusted mortgage partner. Let us secure your dreams and make your
             homeownership aspirations a reality with Kenny Farshchian leading
             the way.
           </p>
@@ -459,7 +459,7 @@ aria-labelledby="modal-modal-title"
         <div id="reverse-mortgage-florida-home-map-container">
           <br></br>
           <p>
-            As direct mortgage lenders based in Utah, Primary Residential
+            As direct <a href="/Reverse-mortgage-Texas-Houston" type="page" id="pageLinksOnPage">mortgage lenders based in Utah </a>, Primary Residential
             Mortgage, Inc. is wholly dedicated to securing the most favorable
             terms for your mortgage. With a comprehensive range of mortgage loan
             products, including Fannie Mae / Freddie Mac, Adjustable-rate
