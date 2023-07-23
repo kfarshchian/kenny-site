@@ -8,6 +8,7 @@ import {
   Typography,
   CardContent,
   CardActions,
+  Box
 } from "@mui/material";
 import { ParallaxBanner } from "react-scroll-parallax";
 import meeting from "../logos/3.jpg";
@@ -42,26 +43,41 @@ import ContractSign from "../logos/reverse-mortgage-texas-home-paper.jpg";
 import ContractRead from "../logos/reverse-mortgage-texas-home-reading.jpg";
 import { Helmet } from "react-helmet";
 import Loader from "react-loaders";
-// import {  Modal } from '@mui/material';
+import {  Modal } from '@mui/material';
+
+const style = {
+  position: 'absolute',
+  top: '50%',
+  left: '50%',
+  transform: 'translate(-50%, -50%)',
+  width: '15vp',
+  bgcolor: 'background.paper',
+  border: '2px solid #000',
+  boxShadow: 24,
+  p: 4,
+  display: 'flex',
+  flexDirection: 'column',
+  textAlign: 'center',
+};
 
 function Home() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
   // Modal JS
-  // const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(false);
 
-  // useEffect(() => {
-  //   const timer = setTimeout(() => {
-  //     setOpen(true);
-  //   }, 5000); // 10 seconds
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setOpen(true);
+    }, 5000); // 10 seconds
 
-  //   return () => clearTimeout(timer);
-  // }, []);
+    return () => clearTimeout(timer);
+  }, []);
 
-  // const handleClose = () => {
-  //   setOpen(false);
-  // };
+  const handleClose = () => {
+    setOpen(false);
+  };
 
   // Below is delay div sliding in
   const [isVisible, setIsVisible] = useState(false);
@@ -86,14 +102,15 @@ function Home() {
 
   return (
     <>
-      {/* <Modal open={open} onClose={handleClose}
+      <Modal  open={open} onClose={handleClose}
 aria-labelledby="modal-modal-title"
   aria-describedby="modal-modal-description">
-      <div>
-        <h2>Hello, World!</h2>
-        <p>This is my modal content.</p>
-      </div>
-    </Modal> */}
+      <Box sx={style}>
+        <h2>$5,000 Closing Guarantee</h2>
+        <Typography sx={{padding: '10px'}}>If we don't close your loan on time, we will pay you $2,500 and the seller $2,500 (restrictions apply).</Typography>
+        <Button id="modal-button" href="/closing-guarantee" sx={{color: 'black', backgroundColor: 'none'}}>Learn More</Button>
+      </Box>
+    </Modal>
       <ParallaxBanner
         title="reverse mortgage utah"
         id="reverse-mortgage-utah-home-Container-1"
@@ -162,6 +179,7 @@ aria-labelledby="modal-modal-title"
                   }
                   id="reverse-mortgage-utah-home-button-1"
                   size="small"
+                  mailto="kfarshchian@gmail.com"
                 >
                   Learn More
                 </Button>
