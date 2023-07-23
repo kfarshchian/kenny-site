@@ -44,6 +44,7 @@ import ContractRead from "../logos/reverse-mortgage-texas-home-reading.jpg";
 import { Helmet } from "react-helmet";
 import Loader from "react-loaders";
 import {  Modal } from '@mui/material';
+import ThumbUpOffAltIcon from '@mui/icons-material/ThumbUpOffAlt';
 
 const style = {
   position: 'absolute',
@@ -52,12 +53,12 @@ const style = {
   transform: 'translate(-50%, -50%)',
   width: '15vp',
   bgcolor: 'background.paper',
-  border: '2px solid #000',
+  border: '2px solid #4F758B',
+  borderRadius: "15px",
   boxShadow: 24,
   p: 4,
-  display: 'flex',
-  flexDirection: 'column',
   textAlign: 'center',
+  color: '#4F758B'
 };
 
 function Home() {
@@ -106,9 +107,9 @@ function Home() {
 aria-labelledby="modal-modal-title"
   aria-describedby="modal-modal-description">
       <Box sx={style}>
-        <h2>$5,000 Closing Guarantee</h2>
+        <h2 id="modal-H2">$5,000 Closing Guarantee</h2>
         <Typography sx={{padding: '10px'}}>If we don't close your loan on time, we will pay you $2,500 and the seller $2,500 (restrictions apply).</Typography>
-        <Button id="modal-button" href="/closing-guarantee" sx={{color: 'black', backgroundColor: 'none'}}>Learn More</Button>
+        <Button id="modal-button" href="/closing-guarantee" sx={{color: 'black', backgroundColor: 'none'}}><ThumbUpOffAltIcon id="thumb"/>Learn More</Button>
       </Box>
     </Modal>
       <ParallaxBanner

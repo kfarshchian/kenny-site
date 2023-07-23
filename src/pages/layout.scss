@@ -696,10 +696,8 @@ padding: 20px;
 }
 #pageLinksOnPage{
 padding: 0;
-// display: inherit;
 color: #ED8B00;
 margin: 0;
-// float: right !important;
 }
 #pageLinksOnPage:hover{
     padding: 0;
@@ -708,9 +706,17 @@ margin: 0;
 #modal-button{
     display:inline-block !important;
     position: relative;
-    padding: 0;
-    margin: 0;
+    padding-left: 10px;
+    background-color: #ED8B00;
 }
+#modal-button:hover{
+    
+}
+#thumb{
+position:inherit;
+top: 5px;
+}
+
 /* Media Query for small screens on home screen */
 @media (max-width: 768px) {
     .reverse-mortgage-utah-home-Container-stack-img1  {
