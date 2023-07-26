@@ -1,3 +1,10 @@
 # https://www.robotstxt.org/robotstxt.html
-User-agent: *
+User-agent:*
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /store
+
+User-agent: Googlebot
+Allow: /
 Disallow:
