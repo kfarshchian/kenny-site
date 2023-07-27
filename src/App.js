@@ -36,29 +36,29 @@ function App() {
         <div className="container">
           <ParallaxProvider>
           <Routes>
-            <Route path="/" element={<Home />}/>
-            <Route path="/aboutus" element={<AboutUs />} />
-            <Route path="/loans" element={<Loans />} />
-            <Route path="/contact" element={<ContactUs />} />
-            <Route path="/Utah-mortgage-salt-lake-city" element={<SaltLakeCity />} />
-            <Route path="/Utah-mortgage-Layton" element={<Layton />} />
-            <Route path="/Utah-mortgage-Bountiful" element={<Bountiful />} />
-            <Route path="/Utah-Mortgage-Syracuse" element={<Syracuse />} />
-            <Route path="/Reverse-mortgage-Utah-Ogden" element={<Ogden />} />
-            <Route path="/Reverse-mortgage-Utah-WestValleyCity" element={<WestValleyCity />} />
-            <Route path="/Reverse-mortgage-Florida-Venice" element={<Venice />} />
-            <Route path="/Reverse-mortgage-Florida-Palm-Beach" element={<PalmBeach />} />
-            <Route path="/Reverse-mortgage-Florida-Naples" element={<Naples />} />
-            <Route path="/Reverse-mortgage-Texas-Austin" element={<Austin />} />
-            <Route path="/Reverse-mortgage-Texas-Dallas" element={<Dallas />} />
-            <Route path="/Reverse-mortgage-Texas-Houston" element={<Houston />} />
-            <Route path="/our-process" element={<OurProcess />} />
-            <Route path="/Disclosure" element={<Disclosure />} />
-            <Route path="/closing-guarantee" element={<ClosingGuarantee />} />
-            <Route path="/blog" element={<Blog />} />
-            <Route path="/where-to-apply-for-a-mortgage" element={<Apply />} />
-            <Route path="/where-to-get-a-mortgage" element={<GetMortgage />} />
-            <Route path="/how-much-mortgage-can-I-afford" element={<Afford />} />
+            <Route exact path="/" element={<Home />}/>
+            <Route exact path="/aboutus" element={<AboutUs />} />
+            <Route exact path="/loans" element={<Loans />} />
+            <Route exact path="/contact" element={<ContactUs />} />
+            <Route exact path="/Utah-mortgage-salt-lake-city" element={<SaltLakeCity />} />
+            <Route exact path="/Utah-mortgage-Layton" element={<Layton />} />
+            <Route exact path="/Utah-mortgage-Bountiful" element={<Bountiful />} />
+            <Route exact path="/Utah-Mortgage-Syracuse" element={<Syracuse />} />
+            <Route exact path="/Reverse-mortgage-Utah-Ogden" element={<Ogden />} />
+            <Route exact path="/Reverse-mortgage-Utah-WestValleyCity" element={<WestValleyCity />} />
+            <Route exact path="/Reverse-mortgage-Florida-Venice" element={<Venice />} />
+            <Route exact path="/Reverse-mortgage-Florida-Palm-Beach" element={<PalmBeach />} />
+            <Route exact path="/Reverse-mortgage-Florida-Naples" element={<Naples />} />
+            <Route exact path="/Reverse-mortgage-Texas-Austin" element={<Austin />} />
+            <Route exact path="/Reverse-mortgage-Texas-Dallas" element={<Dallas />} />
+            <Route exact path="/Reverse-mortgage-Texas-Houston" element={<Houston />} />
+            <Route exact path="/our-process" element={<OurProcess />} />
+            <Route exact path="/Disclosure" element={<Disclosure />} />
+            <Route exact path="/closing-guarantee" element={<ClosingGuarantee />} />
+            <Route exact path="/blog" element={<Blog />} />
+            <Route exact path="/where-to-apply-for-a-mortgage" element={<Apply />} />
+            <Route exact path="/where-to-get-a-mortgage" element={<GetMortgage />} />
+            <Route exact path="/how-much-mortgage-can-I-afford" element={<Afford />} />
           </Routes>
           </ParallaxProvider>
         </div>
